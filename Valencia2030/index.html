@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Comunidad Valenciana 2030</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./mainScripts/mainCss.css'>
+    <link rel='icon' type='icon' href='./mainResources/pictures/icono.svg'>
+</head>
+
+<body>
+    <main>
+        <h2>C O M U N I D A D</h2>
+        <h2>V A L E N C I A N A</h2>
+        <div id="deck">
+            <img class="imagen eficiencia" src="./mainResources/pictures/picture_eficiencia.png" />
+            <img class="imagen conectividad" src="./mainResources/pictures/picture_conectividad.png" />
+            <img class="imagen proximidad" src="./mainResources/pictures/picture_proximidad.png" />
+            <img class="imagen diversidad" src="./mainResources/pictures/picture_diversidad.png" />
+            <img class="imagen innovacion" src="./mainResources/pictures/picture_innovacion.png" />
+            <img class="imagen personalidad" src="./mainResources/pictures/picture_personalidad.png" />
+            <img class="imagen cohesion" src="./mainResources/pictures/picture_cohesion.png" />
+            <img class="imagen social" src="./mainResources/pictures/picture_social.png" />
+            <img class="imagen gobernabilidad" src="./mainResources/pictures/picture_gobernabilidad.png" />
+        </div>
+        <div style="height: 10px;"></div>
+        <nav>
+            <div class="list1">
+                <ul>
+                    <li onmouseenter="layer('eficiencia')" onclick="navigate('1','Eficiencia')">⯀ Eficiencia</li>
+                    <li onmouseenter="layer('conectividad')" onclick="navigate('2','Conectividad')">⯀ Conectividad</li>
+                    <li onmouseenter="layer('proximidad')" onclick="navigate('3','Proximidad')">⯀ Proximidad</li>
+                </ul>
+            </div>
+            <div class="list2">
+                <ul>
+                    <li onmouseenter="layer('diversidad')" onclick="navigate('4','Diversidad')">⯀ Diversidad</li>
+                    <li onmouseenter="layer('innovacion')" onclick="navigate('5','Innovacion')">⯀ Innovacion</li>
+                    <li onmouseenter="layer('personalidad')" onclick="navigate('6','Personalidad')">⯀ Personalidad</li>
+                </ul>
+            </div>
+            <div class="list3">
+                <ul>
+                    <li onmouseenter="layer('cohesion')" onclick="navigate('7','Cohesion')">⯀ Cohesion</li>
+                    <li onmouseenter="layer('social')">⯀ Social</li>
+                    <li onmouseenter="layer('gobernabilidad')">⯀ Gobernabilidad</li>
+                </ul>
+            </div>
+        </nav>
+    </main>
+    <script>
+        function layer(title) {
+            let allElements = document.querySelectorAll('.imagen');
+            allElements.forEach(element => {
+                element.style.zIndex = 0;
+            });
+
+            let image = document.querySelector(`.${title}`);
+            image.style.zIndex = 1;
+        }
+        function navigate(number, title){
+            window.open(`./pdf/Estrategias Territoriales - ${number} - ${title}.pdf`, "_blank")
+        }
+    </script>
+
+</body>
+
+</html>

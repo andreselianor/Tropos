@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    font-size: 9pt;
+}
+
+h2 {
+    font-size: 9pt;
+    width: 320px;
+    text-align: justify;
+    letter-spacing: 10px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#deck {
+    width: 300px;
+    height: 300px;
+}
+
+.imagen {
+    width: 300px;
+    border-radius: 15px;
+    position: absolute;
+}
