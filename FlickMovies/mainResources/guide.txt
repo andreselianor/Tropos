@@ -1,0 +1,344 @@
+Animes
+    -- 7424
+11881Animación para adultos
+2729Anime de ciencia ficción
+9302Anime de comedia
+452Anime de drama
+10695Anime de terror
+2653Animes de acción
+11146Animes de fantasía
+5507Historias de animales
+3063Películas de anime
+6721Series de anime
+
+
+Cine de ayer, hoy y siempre
+31574
+29809Cine dramático clásico
+48744Clásicas de guerra
+52858Epopeyas
+7687Film noir
+    -- 32392Musicales clásicos
+46576Películas de acción y aventura clásicas
+47147Películas de sci-fi y fantasía de ayer, hoy y siempre
+53310Películas mudas
+31694Películas para reír clásicas
+31273Películas románticas clásicas
+46553Programas clásicos
+46588Thrillers clásicos
+47465Wésterns clásicos
+
+
+Cine dramático
+5763
+    -- 3653Cine dramático basado en hecho reales [ok]
+4961Cine dramático basado en libros
+3179Cine dramático biográfico
+7243Cine dramático de deportes
+11Cine dramático militar
+    -- 6616Cine dramático político [ok]
+1255Cine dramático romántico
+6889Cine dramático sobre crímenes
+5012Cine dramático sobre la farándula
+    -- 500Dramas LGBTQ+
+3947Dramas sociales
+
+Cine independiente
+7077
+3269Cine de intriga independiente
+384Cine dramático independiente
+11804Películas de acción y aventura independientes
+    -- 11079Películas experimentales
+4195Películas independientes para reír
+    -- 9916Películas románticas independientes
+
+
+Cine romántico
+8883
+    -- 1255Cine dramático romántico
+31273Películas románticas clásicas
+7153Películas románticas extranjeras
+    -- 9916Películas románticas independientes
+5475Películas románticas para reír
+    -- 35800Películas románticas sensuales
+    -- 36103Romances excéntricos [ok]
+502675Romances inolvidables
+
+
+De intriga
+8933
+3269Cine de intriga independiente
+    --10504Cine de intriga política
+5505Cine de intriga psicológica
+11140Cine de intriga sobrenatural
+43048Cine de intriga y acción
+10499Cine de intriga y crímenes
+9147Cine de intriga y espías
+11014Intriga y sci-fi
+    -- 31851Películas de gánsteres
+    -- 9994Películas de misterio
+10306Thriller extranjero
+46588Thrillers clásicos
+972Thrillers sensuales
+
+Documentales
+6839
+3652Documentales biográficos
+2760Documentales espirituales
+5161Documentales extranjeros
+5349Documentales históricos
+4006Documentales militares
+7018Documentales políticos
+10005Documentales religiosos
+    -- 2595Documentales sobre ciencia y naturaleza
+9875Documentales sobre crímenes
+180Documentales sobre deportes
+90361Documentales sobre música y conciertos
+1159Documentales sobre viajes y aventuras
+3675Documentales socioculturales
+
+
+LGBTQ+
+5977
+7120Comedias LGBTQ+
+4720Documentales LGBTQ+
+500Dramas LGBTQ+
+3329Películas LGBTQ+ románticas
+65263Series LGBTQ+
+
+
+Música
+1701
+3278Conciertos de rock y pop
+9472Conciertos urbanos y de danza
+1105Country & western/folk
+10271Jazz y easy listening
+13335Musicales
+32392Musicales clásicos
+59433Musicales de Disney
+13573Musicales sobre la farándula
+55774Musicales teatrales
+2856Música del mundo
+52843Música infantil
+10741Música latina
+
+Navidad 🎄
+1527064British Christmas Kids & Family Movies
+1721544Películas familiares canadienses navideñas
+1475066Películas familiares navideñas optimistas
+1476024Películas infantiles navideñas de los noventa
+1475071Películas navideñas disparatadas para ver en familia
+1527063Películas navideñas europeas familiares
+1474017Películas navideñas infantiles y familiares
+1477206Películas navideñas para niños y familias de 11 a 12 años
+1477201Películas navideñas para niños y familias de 5 a 7 años
+1477204Películas navideñas para niños y familias de 8 a 10 años
+1394522Películas navideñas para toda la familia
+1394527Películas navideñas románticas
+
+
+Otros
+    -- 29764Cine de arte
+52858Epopeyas
+11559Especiales de stand up
+7687Film noir
+6998Historias satánicas
+    -- 9744Películas de fantasía
+31851Películas de gánsteres
+11079Películas experimentales
+52804Películas sobre fe y espiritualidad
+839338Solo en Netflix
+4922Sátiras
+34399Todas las películas
+
+
+Películas de acción y aventura
+1365
+43048Cine de intriga y acción
+11828Foreign action & adventure
+    -- 77232Películas asiáticas de acción
+43040Películas de acción para reír
+46576Películas de acción y aventura clásicas
+10702Películas de acción y aventura de espías
+2125Películas de acción y aventura militares
+9584Películas de acción y aventura sobre crímenes
+1568Películas de acción, sci-fi y fantasía
+8985Películas de artes marciales
+7442Películas de aventura
+10118Películas de historietas y superhéroes
+20541Películas sobre secuestros
+    -- 7700Wésterns
+
+Películas de deportes
+4370
+    -- 6695Artes marciales, boxeo y lucha
+7243Cine dramático de deportes
+9327Deportes y salud física
+180Documentales sobre deportes
+8985Películas de artes marciales
+5286Películas para reír de deportes
+12762Películas sobre baloncesto
+12443Películas sobre boxeo
+12339Películas sobre béisbol
+12549Películas sobre fútbol
+12803Películas sobre fútbol americano
+
+
+Películas de sci-fi y fantasía
+1492
+3327Ciencia ficción con extraterrestres
+6485Ciencia ficción y fantasía extranjera
+3916Cine dramático de sci-fi
+11014Intriga y sci-fi
+1568Películas de acción, sci-fi y fantasía
+9744Películas de fantasía
+6926Películas de sci-fi y aventura
+47147Películas de sci-fi y fantasía de ayer, hoy y siempre
+4734Películas de sci-fi y fantasía de culto
+1694Películas de terror de ciencia ficción
+
+
+Películas de terror
+8711
+6998Historias satánicas
+947Películas de monstruos
+75930Películas de terror con hombres lobo
+75804Películas de terror con vampiros
+10944Películas de terror de culto
+75405Películas de terror de zombis
+45028Películas de terror en alta mar
+8654Películas de terror extranjeras
+42023Películas de terror sobrenatural
+89585Películas para reír de terror
+8646Películas sobre psicópatas y asesinos seriales
+52147Terror adolescente
+
+Películas internacionales
+78367
+11828Acción y aventura en el extranjero
+6485Ciencia ficción y fantasía extranjera
+58807Cine francés
+4426Comedias extranjeras
+5161Documentales extranjeros
+2150Dramas extranjeros
+3761Películas africanas
+58886Películas alemanas
+77232Películas asiáticas de acción
+5230Películas australianas
+    -- 262Películas belgas [ok]
+10757Películas británicas
+3960Películas chinas
+32473Películas clásicas extranjeras
+5685Películas coreanas
+5254Películas de Europa del Este
+5875Películas de Oriente Medio
+8654Películas de terror extranjeras
+    -- 9196Películas del Sudeste asiático [ok]
+9292Películas escandinavas
+	-- 58741Películas españolas [ok]
+8243Películas extranjeras de gays y lesbianas
+61115Películas griegas
+10606Películas holandesas
+10463Películas indias
+58750Películas irlandesas
+8221Películas italianas
+10398Películas japonesas
+1613Películas latinoamericanas
+63782Películas neozelandesas
+7153Películas románticas extranjeras
+11567Películas rusas
+1133133Películas turcas
+107570Películas y programas de Tailandia
+434295Películas y programas de Taiwán
+10306Thriller extranjero
+
+
+Películas para reír
+6548
+9302Anime de comedia
+3519Comedias de adolescentes
+9702Comedias de enredos
+4426Comedias extranjeras
+10256Comedias físicas
+11559Especiales de stand up
+26Falsos documentales
+13335Musicales
+869Películas de humor negro
+1402Películas para reír antes de dormir
+5286Películas para reír de deportes
+89585Películas para reír de terror
+2700Películas para reír políticas
+5475Películas románticas para reír
+4922Sátiras
+
+
+Películas para ver en familia
+783
+27346Contenido infantil
+11177Dibujos animados
+67673Disney
+10659Educación para niños
+5507Historias de animales
+52843Música infantil
+10056Películas basadas en libros infantiles
+6796Películas para niños de 0 a 2 años
+6962Películas para niños de 11 a 12 años
+6218Películas para niños de 2 a 4 años
+5455Películas para niños de 5 a 7 años
+561Películas para niños de 8 a 10 años
+51056Películas para toda la familia
+
+Series
+83
+27346Contenido infantil
+4814Miniseries
+46553Programas clásicos
+25804Programas militares
+72436Programas sobre comida y viajes
+9833Reality shows
+52117Series británicas
+67879Series coreanas
+10673Series de acción y aventura
+10375Series de comedia
+4366Series de misterio
+1372Series de sci-fi y fantasía
+83059Series de terror
+10105Series documentales
+11714Series dramáticas
+26146Series sobre crímenes
+74652Series y programas de TV de culto
+52780TV sobre ciencia y naturaleza
+
+
+Series para adolescentes
+60951
+9299Cine dramático de adolescentes
+3519Comedias de adolescentes
+52147Terror adolescente
+¿Qué son los códigos secretos de Netflix?
+En el sitio web www.netflix.com, no encontrarás categorías visibles en la navegación. Sin embargo, Netflix utiliza códigos secretos para clasificar las películas y series, y así ofrecerte recomendaciones más precisas. Estos códigos te permiten acceder directamente a las categorías ocultas.
+
+Animación para adultos11881
+Anime de ciencia ficción2729
+Anime de comedia9302
+Anime de drama452
+Anime de terror10695
+Animes de acción2653
+Animes de fantasía11146
+Historias de animales5507
+Películas de anime3063
+Series de anime6721
+
+Películas navideñas
+British Christmas Kids & Family Movies1527064
+Películas familiares canadienses navideñas1721544
+Películas familiares navideñas optimistas1475066
+Películas infantiles navideñas de los noventa1476024
+Películas navideñas disparatadas para ver en familia1475071
+Películas navideñas europeas familiares1527063
+Películas navideñas infantiles y familiares1474017
+Películas navideñas para niños y familias de 11 a 12 años1477206
+Películas navideñas para niños y familias de 5 a 7 años1477201
+Películas navideñas para niños y familias de 8 a 10 años1477204
+Películas navideñas para toda la familia1394522
+Películas navideñas románticas1394527

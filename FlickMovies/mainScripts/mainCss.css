@@ -1,0 +1,31 @@
+@font-face {
+    font-family: texts;
+    src: url(../mainResources/fonts/DMSans-Regular.ttf);
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#card {
+    width: 150px;
+    height: 150px;
+    margin: 5px 5px 25px 5px;
+}
+
+.cardImage {
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 5px rgba(135, 206, 250);
+    border-radius: 5px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    font-family: texts;
+    font-size: 7pt;
+    margin: 2px;
+}

@@ -7,7 +7,11 @@ CURRENT:
 1._ Comunidad Valenciana 2030
 	"Guia de estrategias para la gestión eficiente / inteligente del territorio"
 	-	"Valencia2030"
-	
+		
+2._ Flick Movies
+  "Panel de control para navegar entre las distintas categorías de películas Netflix"
+  - "FlickMovies"
+  
 
 
 =======
@@ -22,11 +26,7 @@ CANDIDATES:
 2._ Hallo Library
 	"Coleccion de peliculas recomendadas y vistas"
 	-	"HalloLibrary"	
-	
-3._ Flick Movies
-  "Panel de control para navegar entre las distintas categorías de películas Netflix"
-  - "FlickMovies"
-  
+
 4._ Learning SQL
 "Manual para utilizar busquedas SQL dentro de una base de datos"
 -	"LearningSQL"

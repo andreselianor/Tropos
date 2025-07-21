@@ -1,0 +1,11 @@
+2025-07-21
+version 1.0
+
+FlickMovies
+A collection of Netflix movies sorted by genre.
+
+content:
+basic collection of cards genres.
+
+production:
+complete genres.
