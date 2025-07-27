@@ -25,6 +25,6 @@ CANDIDATES:
   "Coleccion de peliculas recomendadas y vistas"
   - "/HalloLibrary"	
 
-4._ Learning SQL
+3._ Learning SQL
   "Manual para utilizar busquedas SQL dentro de una base de datos"
   - "/LearningSQL"
