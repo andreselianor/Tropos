@@ -20,10 +20,10 @@ CANDIDATES:
 1._ Lazy Traductor
   "Traductor de palabras y expresiones alemanas"
   - "/LazyTraduction"
-	
-2._ Hallo Library
-  "Coleccion de peliculas recomendadas y vistas"
-  - "/HalloLibrary"	
+  
+2._ Learning Deutsch
+  "Manual y cuaderno de ejercicios para aprender aleman[■]"
+  - "/LearningDeutsch"
 
 3._ Learning SQL
   "Manual para utilizar busquedas SQL dentro de una base de datos"
