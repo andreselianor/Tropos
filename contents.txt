@@ -28,3 +28,7 @@ CANDIDATES:
 3._ Learning SQL
   "Manual para utilizar busquedas SQL dentro de una base de datos"
   - "/LearningSQL"
+  
+4._ Generic Databases
+  "Bases de datos para practicar consultas y funciones sql"
+  - "/EasyDatabases"
