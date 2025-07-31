@@ -1,0 +1,55 @@
+@font-face {
+    font-family: texts;
+    src: url(../mainResources/HedvigLettersSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: headers;
+    src: url(../mainResources/Mako-Regular.ttf)
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 380px;
+}
+
+h3 {
+    word-spacing: 13px;
+}
+
+h2,
+h3 {
+    font-family: headers;
+}
+
+#content {
+    width: 380px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+#navigation {
+    float: right;
+}
+
+.title {
+    width: 100px;
+    font-family: 'Lucida Sans';
+    font-size: 10pt;
+    margin-right: 30px;
+}
+
+.paragraph {
+    width: 280px;
+    font-family: texts;
+    font-size: 10pt;
+    text-align: justify;
+}
+
+code {
+    color: green;
+}

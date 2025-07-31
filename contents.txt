@@ -11,24 +11,17 @@ CURRENT:
 2._ Flick Movies
   "Panel de control para navegar entre las distintas categorías de películas Netflix"
   - "/FlickMovies"
+  
+3._ Lazy Traductor
+  "Traductor de palabras y expresiones alemanas"
+  - "/LazyTraductor"
 
+4._ Learning SQL
+  "Manual para realizar busquedas SQL dentro de una base de datos"
+  - "/LearningSQL"
+  
 =======
 	
 ""
 CANDIDATES:
 
-1._ Lazy Traductor
-  "Traductor de palabras y expresiones alemanas"
-  - "/LazyTraduction"
-  
-2._ Learning Deutsch
-  "Manual y cuaderno de ejercicios para aprender aleman[■]"
-  - "/LearningDeutsch"
-
-3._ Learning SQL
-  "Manual para utilizar busquedas SQL dentro de una base de datos"
-  - "/LearningSQL"
-  
-4._ Generic Databases
-  "Bases de datos para practicar consultas y funciones sql"
-  - "/EasyDatabases"

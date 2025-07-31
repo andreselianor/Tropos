@@ -7,5 +7,5 @@ A collection of Netflix movies sorted by genre.
 content:
 basic collection of cards genres.
 
-production:
+desarrollo:
 complete genres.

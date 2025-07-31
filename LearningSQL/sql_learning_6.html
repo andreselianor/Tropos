@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>SQL Learning</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./mainScripts/mainCss.css'>
+    <link rel='icon' type='icon' href='./mainResources/icon/icon.svg'>
+</head>
+
+<body>
+    <main>
+        <h2>SQL Lesson 6:</h2>
+        <h3>Multi-table queries with JOINs</h3>
+        <div id="content">
+            <p class="title">Definition</p>
+            <p class="paragraph">
+                Up to now, we've been working with a single table, but entity data in the real world is often broken
+                down into pieces and stored across multiple orthogonal tables using a process known as normalization.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">Database NORMALIZATION</p>
+            <p class="paragraph">
+                Database normalization is useful because it minimizes duplicate data in any single table, and allows for
+                data in the database to grow independently of each other (ie. Types of car engines can grow independent
+                of each type of car). As a trade-off, queries get slightly more complex since they have to be able to
+                find data from different parts of the database, and performance issues can arise when working with many
+                large tables.
+
+                In order to answer questions about an entity that has data spanning multiple tables in a normalized
+                database, we need to learn how to write a query that can combine all that data and pull out exactly the
+                information we need.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">Multi-table queries with JOINs</p>
+            <p class="paragraph">
+                Tables that share information about a single entity need to have a primary key that identifies that
+                entity uniquely across the database. One common primary key type is an auto-incrementing integer
+                (because they are space efficient), but it can also be a string, hashed value, so long as it is unique.
+
+                Using the JOIN clause in a query, we can combine row data across two separate tables using this unique
+                key. The first of the joins that we will introduce is the INNER JOIN.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">SELECT on multiple tables</p>
+            <p class="paragraph">
+                <code>
+                SELECT column, another_table_column,<br>
+                FROM mytable<br>
+                INNER JOIN another_table <br>
+                    ON mytable.id = another_table.id<br>
+                WHERE condition(s)<br>
+                ORDER BY column,<br>
+                LIMIT num_limit OFFSET num_offset;
+                </code>
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">INNER JOIN</p>
+            <p class="paragraph">
+                The INNER JOIN is a process that matches rows from the first table and the second table which have the
+                same key (as defined by the ON constraint) to create a result row with the combined columns from both
+                tables. After the tables are joined, the other clauses we learned previously are then applied.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">Did you know?</p>
+            <p class="paragraph">
+                You might see queries where the INNER JOIN is written simply as a JOIN. These two are equivalent, but we
+                will continue to refer to these joins as inner-joins because they make the query easier to read once you
+                start using other types of joins, which will be introduced in the following lesson.
+            </p>
+        </div>
+        <div id="navigation"><span onclick="navigate(5)">&lt;</span><span> · </span><span
+                onclick="navigate(7)">&gt;</span></div>
+    </main>
+    <script src="./mainScripts/mainJs.js"></script>
+</body>
+
+</html>

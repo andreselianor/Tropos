@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>SQL Learning</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./mainScripts/mainCss.css'>
+    <link rel='icon' type='icon' href='./mainResources/icon/icon.svg'>
+</head>
+
+<body>
+    <main>
+        <h2>SQL Lesson 3:</h2>
+        <h3>Queries with constraints (Pt. 2)</h3>
+        <div id="content">
+            <p class="title">Regular Operators</p>
+            <p class="paragraph">When writing WHERE clauses with columns containing text data, SQL supports a number of
+                useful operators to do things
+                like case-insensitive string comparison and wildcard pattern matching. We show a few common text-data
+                specific
+                operators below:<br>
+                    <b>=</b><br> Case sensitive exact string comparison col_name = "abc"<br>
+                    <b>!= or <></b><br> Case sensitive exact string inequality comparison col_name != "abcd"<br>
+                    <b>LIKE</b><br> Case insensitive exact string comparison col_name LIKE "ABC"<br>
+                    <b>NOT LIKE</b><br>                    
+                    Case insensitive exact string inequality comparison col_name NOT LIKE "ABCD"<br></code>
+                    <b>%</b><br> Used anywhere in a string to match a sequence of zero or more characters 
+                    LIKE "%AT%"
+                    (matches "AT", "ATTIC", "CAT")<br>
+                    <b>_</b><br> Used anywhere in a string to match a single character col_name LIKE "AN_"
+                    (matches "AND", but not "AN")<br>
+                    <b>IN</b><br> String exists in a list col_name IN ("A", "B", "C")<br>
+                    <b>NOT IN</b><br> String does not exist in a list col_name NOT IN ("D", "E", "F")<br>
+            </code>
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">
+                Did you know?</p>
+            <p class="paragraph">
+                All strings must be quoted so that the query parser can distinguish words in the string from SQL
+                keywords.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">More Efficiency</p>
+            <p class="paragraph">We should note that while most database implementations are quite efficient when using
+                these operators,
+                full-text search is best left to dedicated libraries like Apache Lucene or Sphinx. These libraries are
+                designed
+                specifically to do full text search, and as a result are more efficient and can support a wider variety
+                of
+                search features including internationalization and advanced queries.
+            </p>
+        </div>
+        <div id="navigation"><span onclick="navigate(2)">&lt;</span><span> · </span><span
+                onclick="navigate(4)">&gt;</span></div>
+    </main>
+    <script src="./mainScripts/mainJs.js"></script>
+</body>
+
+</html>
