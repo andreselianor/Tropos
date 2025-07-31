@@ -36,6 +36,11 @@ h3 {
     float: right;
 }
 
+#indexlist {
+    display: flex;
+    flex-direction: column;
+}
+
 .title {
     width: 100px;
     font-family: 'Lucida Sans';
@@ -48,6 +53,12 @@ h3 {
     font-family: texts;
     font-size: 10pt;
     text-align: justify;
+}
+
+.paragraph_code {
+    width: 280px;
+    font-family: texts;
+    font-size: 10pt;
 }
 
 code {

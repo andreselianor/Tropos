@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>SQL Learning</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./mainScripts/mainCss.css'>
+    <link rel='icon' type='icon' href='./mainResources/icon/icon.svg'>
+</head>
+
+<body>
+    <main>
+        <h2>SQL Lesson 7:</h2>
+        <h3>Outer JOINS</h3>
+        <div id="content">
+            <p class="title">Definition</p>
+            <p class="paragraph">
+                Depending on how you want to analyze the data, the INNER JOIN we used last lesson might not be
+                sufficient because the resulting table only contains data that belongs in both of the tables.
+
+                If the two tables have asymmetric data, which can easily happen when data is entered in different
+                stages, then we would have to use a LEFT JOIN, RIGHT JOIN or FULL JOIN instead to ensure that the data
+                you need is not left out of the results.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">SELECT on multiple tables</p>
+            <p class="paragraph_code">
+                <code>
+                <b>SELECT</b> column, another_column,<br>
+                <b>FROM</b> table<br>
+                <b>INNER LEFT/RIGHT/FULL JOIN</b> another_table <br>
+                    <b>ON</b> table.id = another_table.id<br>
+                <b>WHERE</b> condition<br>
+                <b>ORDER</b> BY column,<br>
+                <b>LIMIT</b> num_limit <b>OFFSET</b> num_offset;
+                </code>
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">Definitions</p>
+            <p class="paragraph">
+                INNER LEFT JOIN takes the whole data from the first selected table, no matter if there is a match with
+                the right column.
+                When there is no match that completes the INNER JOIN ON condition, the result of the column is NULL. So
+                you have to deal
+                with NULL results when working with LEFT/RIGHT JOINS.
+            </p>
+        </div>
+        <div id="content">
+            <p class="title">Conclusion</p>
+            <p class="paragraph">
+                Like the INNER JOIN these three new joins have to specify which column to join the data on.
+                When joining table A to table B, a LEFT JOIN simply includes rows from A regardless of whether a
+                matching row is found in B. The RIGHT JOIN is the same, but reversed, keeping rows in B regardless of
+                whether a match is found in A. Finally, a FULL JOIN simply means that rows from both tables are kept,
+                regardless of whether a matching row exists in the other table.
+
+                When using any of these new joins, you will likely have to write additional logic to deal with NULLs in
+                the result and constraints (more on this in the next lesson).
+            </p>
+        </div>
+        <div id="navigation"><span onclick="navigate(6)">&lt;</span><span> · </span><span
+                onclick="navigate(8)">&gt;</span></div>
+    </main>
+    <script src="./mainScripts/mainJs.js"></script>
+</body>
+
+</html>
