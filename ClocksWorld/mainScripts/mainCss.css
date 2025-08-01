@@ -12,8 +12,12 @@
     flex-wrap: wrap;
 }
 
-.gmt {
+.utc {
     font-size: 7pt;
+}
+
+.remark {
+    background-color: lightsalmon;
 }
 
 .clocks {
