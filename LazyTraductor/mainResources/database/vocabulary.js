@@ -14,6 +14,11 @@ const vocabulary = {
         traduction: "Esperar a que suceda un acontecimiento",
         comment: "Accion de esperar un hecho que está por suceder."
     },
+    Angenestellter: {
+        word: "'angenestellter'",
+        traduction: "empleado",
+        comment: "Trabajador, empleado, asalariado."
+    },
     Angenehmer: {
         word: "'angenehmer'",
         traduction: "agradable",
@@ -54,6 +59,11 @@ const vocabulary = {
         traduction: "hojear",
         comment: "Verbo. Pasar páginas de un libro o revista."
     },
+    Bewerbung: {
+        word: "'bewerbung'",
+        traduction: "solicitar / solicitud",
+        comment: "Documento para realizar una solicitud."
+    },
     Bieten: {
         word: "'bieten'",
         traduction: "ofrecer",
@@ -63,6 +73,16 @@ const vocabulary = {
         word: "'D'",
         traduction: "Worten Mit 'D'",
         comment: ""
+    },
+    Dienst: {
+        word: "'dienst'",
+        traduction: "Palabra para 'servicio'",
+        comment: "'Servicio' entendido como trabajo que es realizado para un usuario."
+    },
+    Dunkel: {
+        word: "'dunkel'",
+        traduction: "Adjetivo para 'oscuro'",
+        comment: "Lo contrario de 'helle'"
     },
     Datenverarbeitung: {
         word: "'Datenverarbeitung'",
@@ -133,6 +153,16 @@ const vocabulary = {
         word: "'H'",
         traduction: "Worten Mit 'H'",
         comment: ""
+    },
+    Helle: {
+        word: "helle",
+        traduction: "clara",
+        comment: "el contrario es 'dunkel'."
+    },
+    Hinweise: {
+        word: "hinweise",
+        traduction: "nota, consejo",
+        comment: "También existe un verbo, Hinweisen, significa, 'hacer notar algo'."
     },
     Höflich: {
         word: "höflich",
@@ -214,6 +244,11 @@ const vocabulary = {
         traduction: "Worten Mit 'N'",
         comment: ""
     },
+    Nützlich: {
+        word: "'nützlich'",
+        traduction: "Adjetivo para 'útil'",
+        comment: "'nützliche sache', algo útil."
+    },
     Notiert: {
         word: "'notiert'",
         traduction: "anotado",
@@ -223,6 +258,16 @@ const vocabulary = {
         word: "Nachmittag",
         traduction: "tarde",
         comment: "Parte del día que sigue al mediodía y precede a la noche."
+    },
+    O: {
+        word: "'O'",
+        traduction: "Worten Mit 'O'",
+        comment: ""
+    },
+    Offëntlich: {
+        word: "offëntlich",
+        traduction: "público",
+        comment: "Que resulta de dominio general."
     },
     P: {
         word: "'P'",
@@ -343,6 +388,16 @@ const vocabulary = {
         word: "'P'",
         traduction: "Worten Mit 'Z'",
         comment: ""
+    },
+    Zeigen: {
+        word: "zeigen",
+        traduction: "Mostrar, enseñar",
+        comment: "Verbo para mostrar un objeto o concepto."
+    },
+    Zeugnissen: {
+        word: "zeugnissen",
+        traduction: "Diplomas, certificados",
+        comment: "Documentos que acreditan titulaciones o cursos profesionales."
     },
     Zufrieden: {
         word: "zufrieden",
