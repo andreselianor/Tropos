@@ -14,6 +14,11 @@ const vocabulary = {
         traduction: "Esperar a que suceda un acontecimiento",
         comment: "Accion de esperar un hecho que está por suceder."
     },
+    Anschrift: {
+        word: "anschrift",
+        traduction: "direccion",
+        comment: "Direccion de un lugar."
+    },
     Angenestellter: {
         word: "'angenestellter'",
         traduction: "empleado",
@@ -279,6 +284,36 @@ const vocabulary = {
         traduction: "puntual",
         comment: "Que llega a la hora establecida."
     },
+    S: {
+        word: "'S'",
+        traduction: "Worten Mit 'S'",
+        comment: ""
+    },
+    Schild: {
+        word: "'schild'",
+        traduction: "letrero",
+        comment: "cartel o pancarta."
+    },
+    Schluck: {
+        word: "'schluck'",
+        traduction: "trago",
+        comment: "Cantidad pequeña de líquido que se bebe."
+    },
+    Stellen: {
+        word: "'stellen'",
+        traduction: "colocar",
+        comment: "Verbo. Poner algo en un sitio."
+    },
+    Stellenanzeigen: {
+        word: "'stellenanzeigen'",
+        traduction: "ofertas de trabajo",
+        comment: "Anuncios de empleos en medios."
+    },
+    Schauspielerin: {
+        word: "'schauspielerin'",
+        traduction: "actriz",
+        comment: "Mujer que actúa en obras o películas."
+    },
     T: {
         word: "'T'",
         traduction: "Worten Mit 'T'",
@@ -299,31 +334,6 @@ const vocabulary = {
         traduction: "cita / compromiso",
         comment: "Fecha y hora fijadas para un evento o reunión."
     },
-    S: {
-        word: "'S'",
-        traduction: "Worten Mit 'S'",
-        comment: ""
-    },
-    Schluck: {
-        word: "'Schluck'",
-        traduction: "trago",
-        comment: "Cantidad pequeña de líquido que se bebe."
-    },
-    Stellen: {
-        word: "'stellen'",
-        traduction: "colocar",
-        comment: "Verbo. Poner algo en un sitio."
-    },
-    Stellenanzeigen: {
-        word: "'Stellenanzeigen'",
-        traduction: "ofertas de trabajo",
-        comment: "Anuncios de empleos en medios."
-    },
-    Schauspielerin: {
-        word: "'Schauspielerin'",
-        traduction: "actriz",
-        comment: "Mujer que actúa en obras o películas."
-    },
     U: {
         word: "'U'",
         traduction: "Worten Mit 'U'",
@@ -339,33 +349,38 @@ const vocabulary = {
         traduction: "Worten Mit 'V'",
         comment: ""
     },
+    Verabredung: {
+        word: "'verabredung'",
+        traduction: "cita",
+        comment: "Tener una cita, un encuentro con una persona."
+    },
     Verlag: {
-        word: "'Verlag'",
+        word: "'verlag'",
         traduction: "editorial",
         comment: "Empresa que publica libros o revistas."
     },
     Voraussetzung: {
-        word: "'Voraussetzung'",
+        word: "'voraussetzung'",
         traduction: "requisito",
         comment: "Condición necesaria para algo."
     },
     Vorstellungsgespräch: {
-        word: "Vorstellungsgespräch",
+        word: "vorstellungsgespräch",
         traduction: "entrevista de trabajo",
         comment: "Reunión formal para postular a un puesto de trabajo."
     },
     Vormittag: {
-        word: "Vormittag",
+        word: "vormittag",
         traduction: "mañana (antes del mediodía)",
         comment: "Parte del día entre el amanecer y el mediodía."
     },
     Vorstellungstermin: {
-        word: "Vorstellungstermin",
+        word: "vorstellungstermin",
         traduction: "cita para entrevista / presentación",
         comment: "Compuesto de 'Vorstellung' (presentación, entrevista) y 'Termin' (cita)."
     },
     Vorwarten: {
-        word: "Vorwarten",
+        word: "vorwarten",
         traduction: "Sucesos que ocurren mientras esperas",
         comment: "Los hechos que suceden a tu alrededor mientras esperas un acontecimiento."
     },
@@ -408,6 +423,11 @@ const vocabulary = {
         word: "'Zettel'",
         traduction: "papelito",
         comment: "Hoja pequeña para escribir algo."
+    },
+    Zuerst: {
+        word: "'zuerst'",
+        traduction: "primeramente",
+        comment: "Sucede en primer lugar"
     },
     Zusammenarbeiten: {
         word: "'zusammenarbeiten'",
