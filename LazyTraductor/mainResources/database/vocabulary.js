@@ -65,9 +65,14 @@ const vocabulary = {
         comment: "Verbo. Pasar páginas de un libro o revista."
     },
     Bewerbung: {
-        word: "'bewerbung'",
+        word: "'Bewerbung'",
         traduction: "solicitar / solicitud",
         comment: "Documento para realizar una solicitud."
+    },
+    Bewerbungsmappe: {
+        word: "'Bewerbungsmappe'",
+        traduction: "carpeta de entrevistas",
+        comment: "Carpetas especialmente diseñadas para las entrevistas."
     },
     Bieten: {
         word: "'bieten'",
@@ -154,6 +159,11 @@ const vocabulary = {
         traduction: "vestido",
         comment: "Adjetivo. Describe cómo va una persona vestida."
     },
+    Grösse: {
+        word: "'grösse'",
+        traduction: "talla de ropa",
+        comment: "Talla de la persona a la hora de comprar ropa."
+    },
     H: {
         word: "'H'",
         traduction: "Worten Mit 'H'",
@@ -163,6 +173,11 @@ const vocabulary = {
         word: "helle",
         traduction: "clara",
         comment: "el contrario es 'dunkel'."
+    },
+    Hemd: {
+        word: "Hemd",
+        traduction: "camisa",
+        comment: "Camisa de botones."
     },
     Hinweise: {
         word: "hinweise",
@@ -193,6 +208,11 @@ const vocabulary = {
         word: "'K'",
         traduction: "Worts Mit 'K'",
         comment: ""
+    },
+    Kleiderschrank: {
+        word: "'K'",
+        traduction: "Armario de ropa",
+        comment: "Donde se guarda la ropa de vestir."
     },
     Kellner: {
         word: "'Kellner'",
@@ -313,6 +333,11 @@ const vocabulary = {
         word: "'schauspielerin'",
         traduction: "actriz",
         comment: "Mujer que actúa en obras o películas."
+    },
+    Sofort: {
+        word: "'sofort'",
+        traduction: "pronto, enseguida",
+        comment: "No existe tiempo de espera."
     },
     T: {
         word: "'T'",
