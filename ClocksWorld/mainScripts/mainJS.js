@@ -35,6 +35,9 @@ function setTime() {
         if (hour < 10) {
             hour = "0" + hour;
         }
+        if (hour > 23) {
+            hour = hour - 24;
+        }
         if (minutes < 10) {
             minutes = "0" + minutes;
         }
