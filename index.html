@@ -7,20 +7,106 @@
     <title>Index Tropos</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style>
+        body {
+            display: flex;
+            justify-content: center;
+            font-family: texts;
+        }
+
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            width: 400px;
+        }
+
         li {
-            margin: 10px;
+            margin: 10px 0px;
+        }
+
+        @font-face {
+            font-family: texts;
+            src: url(./IndexResources/Montserrat-Regular.ttf);
+        }
+
+        #web_nav,
+        #agenda_nav {
+            width: 200px;
+            background-color: rgba(240, 128, 128, 0.1);
+        }
+
+        #web_nav:hover,
+        #agenda_nav:hover {
+            background-color: rgba(240, 128, 128, 0.4);
+        }
+
+        ul {
+            list-style: none;
+            margin: 0px;
+            padding: 0px;
+            width: 200px;
+            visibility: hidden;
+        }
+
+        #content {
+            display: inline-flex;
         }
     </style>
+    <script>
+        const websites = [
+            "LazyTraductor",
+            "LearningSQL"
+        ];
+        const agenda = [
+            "Tinderella",
+            "Puente"
+        ];
+        function displayNav(element) {
+            let allNav = document.querySelectorAll('ul')
+            allNav.forEach(nav => nav.style.visibility = "hidden");
+
+            let visibleNav = document.getElementById(element);
+            visibleNav.style.visibility = "visible";
+        }
+
+        document.addEventListener("DOMContentLoaded", setup);
+
+        function setup() {
+            let root_websites = document.getElementById("websites");
+            websites.forEach(function (element) {
+                let node = document.createElement("li");
+                node.textContent = element;
+                root_websites.appendChild(node);
+            });
+            let root_agenda = document.getElementById("agenda");
+            agenda.forEach(function (element) {
+                let node = document.createElement("li");
+                node.textContent = element;
+                root_agenda.appendChild(node);
+            });
+        }
+    </script>
 </head>
 
 <body>
-    <ul style="list-style: none;">
-        <li><a href="./ClocksWorld/index.html">Clocks</a></li>
-        <li><a href="./FlickMovies/index.html">FlickMovies</a></li>
-        <li><a href="./LazyTraductor/index.html">LazyTraductor</a></li>
-        <li><a href="./LearningSQL/index.html">LearningSQL</a></li>
-        <li><a href="./Valencia2030/index.html">Valencia2030</a></li>
-    </ul>
+    <main>
+        <nav>
+            <div id="web_nav" onclick="displayNav('websites')">websites</div>
+            <div id="agenda_nav" onclick="displayNav('agenda')">agenda</div>
+        </nav>
+        <div id="content">
+            <ul id="websites">
+                <li><a href="./ClocksWorld/index.html">Clocks</a></li>
+                <li><a href="./FlickMovies/index.html">FlickMovies</a></li>
+                <li><a href="./LazyTraductor/index.html">LazyTraductor</a></li>
+                <li><a href="./LearningSQL/index.html">LearningSQL</a></li>
+                <li><a href="./Valencia2030/index.html">Valencia2030</a></li>
+            </ul>
+            <ul id="agenda">
+                <li>Tinderella</li>
+            </ul>
+        </div>
+    </main>
 </body>
 
 </html>
