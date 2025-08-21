@@ -6,4 +6,12 @@ const agenda = [
     "Puente",
     "Earthserver",
     "Mecanicas + Teyvat",    
+"webtrabajo",
+"laligapro",
+"fotografias viaje",
+"europa",
+"cuadernos de cine",
+"cuadernos de articulos periodico",
+"correo gmail",
+"cuenta de drive"
 ];
