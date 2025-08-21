@@ -6,86 +6,9 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Index Tropos</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            font-family: texts;
-        }
-
-
-        nav {
-            display: flex;
-            justify-content: space-between;
-            width: 400px;
-        }
-
-        li {
-            margin: 10px 0px;
-        }
-
-        @font-face {
-            font-family: texts;
-            src: url(./IndexResources/Montserrat-Regular.ttf);
-        }
-
-        #web_nav,
-        #agenda_nav {
-            width: 200px;
-            background-color: rgba(240, 128, 128, 0.1);
-        }
-
-        #web_nav:hover,
-        #agenda_nav:hover {
-            background-color: rgba(240, 128, 128, 0.4);
-        }
-
-        ul {
-            list-style: none;
-            margin: 0px;
-            padding: 0px;
-            width: 200px;
-            visibility: hidden;
-        }
-
-        #content {
-            display: inline-flex;
-        }
-    </style>
-    <script>
-        const websites = [
-            "LazyTraductor",
-            "LearningSQL"
-        ];
-        const agenda = [
-            "Tinderella",
-            "Puente"
-        ];
-        function displayNav(element) {
-            let allNav = document.querySelectorAll('ul')
-            allNav.forEach(nav => nav.style.visibility = "hidden");
-
-            let visibleNav = document.getElementById(element);
-            visibleNav.style.visibility = "visible";
-        }
-
-        document.addEventListener("DOMContentLoaded", setup);
-
-        function setup() {
-            let root_websites = document.getElementById("websites");
-            websites.forEach(function (element) {
-                let node = document.createElement("li");
-                node.textContent = element;
-                root_websites.appendChild(node);
-            });
-            let root_agenda = document.getElementById("agenda");
-            agenda.forEach(function (element) {
-                let node = document.createElement("li");
-                node.textContent = element;
-                root_agenda.appendChild(node);
-            });
-        }
-    </script>
+    <link rel='stylesheet' type='text/css' media='screen' href='./[0]Index/mainCss.css'>
+    <script src="./[0]Index/mainJs.js"></script>
+    <script src="./[0]Index/database.js"></script>
 </head>
 
 <body>
