@@ -9,10 +9,11 @@ body {
     font-family: texts;
 }
 
+
 nav {
     width: 400px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 @font-face {
@@ -23,11 +24,13 @@ nav {
 #web_nav,
 #agenda_nav {
     width: 180px;
+}
+
+p {
     background-color: rgba(240, 128, 128, 0.1);
 }
 
-#web_nav:hover,
-#agenda_nav:hover {
+p:hover {
     background-color: rgba(240, 128, 128, 0.4);
 }
 
@@ -39,7 +42,7 @@ ul {
 
 #content {
     display: inline-flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 400px;
 }
 
