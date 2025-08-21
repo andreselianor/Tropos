@@ -18,7 +18,7 @@ nav {
 
 @font-face {
     font-family: texts;
-    src: url(./[0]Index/Montserrat-Regular.ttf);
+    src: url(./Montserrat-Regular.ttf);
 }
 
 #web_nav,
@@ -47,5 +47,10 @@ ul {
 }
 
 li {
-    font-size: 10pt;
+    font-size: 11pt;
+    cursor: url("heart.png") 10 10, pointer;
+}
+
+li:hover {
+    background-color: rgba(240, 128, 128, 0.4);
 }
