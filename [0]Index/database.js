@@ -2,20 +2,31 @@ const websites = [
 
 ];
 const agenda = [
+	"Urbanismo",
+	"Viajes",
+	"Antkind",
+	"EcosEsen",
+	"Fotografias",
+	"Steam Collective",
+	"Code learning",
+	"eveonline shirt",
+	"aprender GIT",
+	"ludwingstein IT",
+	"smart electronics",
+	"webscan",	
     "Tinderella",
     "Puente",
     "Earthserver",
     "Mecanicas + Teyvat",
-    "webtrabajo",
     "laligapro",
     "fotografias viaje",
     "europa",
-    "cuadernos de cine",
     "cuadernos de articulos periodico",
     "correo gmail",
     "cuenta de drive",
     "fotoperiodismo website",
     "cocemfe",
     "labora tutora",
-    "cuaderno de copper"
+    "cuaderno de copper",
+	"HalleCollection"
 ];
