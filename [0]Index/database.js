@@ -25,5 +25,6 @@ const agenda = [
     "cocemfe",
     "labora tutora",
     "cuaderno de copper",
-	"HalleCollection"
+	"HalleCollection",
+	"videos adultos"
 ];

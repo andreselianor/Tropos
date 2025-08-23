@@ -74,10 +74,20 @@ const vocabulary = {
         traduction: "carpeta de entrevistas",
         comment: "Carpetas especialmente diseñadas para las entrevistas."
     },
+    Beissen: {
+        word: "'Beissen'",
+        traduction: "morder",
+        comment: "Verbo irregular para el verbo de morder."
+    },
     Bieten: {
         word: "'bieten'",
         traduction: "ofrecer",
         comment: "Verbo. Indica dar o proponer algo."
+    },
+    Billig: {
+        word: "'billig'",
+        traduction: "barato",
+        comment: "Adjetivo. Implica un precio bajo."
     },
     D: {
         word: "'D'",
@@ -358,6 +368,11 @@ const vocabulary = {
         word: "Termin",
         traduction: "cita / compromiso",
         comment: "Fecha y hora fijadas para un evento o reunión."
+    },
+    Teuer: {
+        word: "teuer",
+        traduction: "caro",
+        comment: "Adjetivo. Implica un precio alto."
     },
     U: {
         word: "'U'",
