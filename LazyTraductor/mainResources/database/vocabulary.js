@@ -49,6 +49,11 @@ const vocabulary = {
         traduction: "ofrecer",
         comment: "Dar algo voluntariamente o poner algo a disposición de alguien."
     },
+Antwort: {
+    word: "Antwort",
+    traduction: "respuesta",
+    comment: "Reacción o contestación a una pregunta, mensaje o situación."
+},
     Anzug: {
         word: "Anzug",
         traduction: "traje",
@@ -184,6 +189,11 @@ const vocabulary = {
         traduction: "clara",
         comment: "el contrario es 'dunkel'."
     },
+Heizung: {
+    word: "Heizung",
+    traduction: "calefacción",
+    comment: "Sistema para calentar el interior de un edificio."
+},
     Hemd: {
         word: "Hemd",
         traduction: "camisa",
@@ -204,6 +214,11 @@ const vocabulary = {
         traduction: "trae",
         comment: "Verbo. Forma de 'holen', en presente."
     },
+Holzhaus: {
+    word: "holzhaus",
+    traduction: "casa de madera",
+    comment: "Vivienda construida principalmente con madera."
+},
     I: {
         word: "'I'",
         traduction: "Worten Mit 'I'",
@@ -229,6 +244,11 @@ const vocabulary = {
         traduction: "camarero",
         comment: "Persona que atiende mesas en un restaurante."
     },
+Kalt: {
+    word: "Kalt",
+    traduction: "frío",
+    comment: "Adjetivo. Sensación de baja temperatura."
+},
     Kassierer: {
         word: "'Kassierer'",
         traduction: "cajero",
@@ -239,6 +259,11 @@ const vocabulary = {
         traduction: "Worts Mit 'L'",
         comment: ""
     },
+Lehrerin: {
+    word: "lehrerin",
+    traduction: "profesora",
+    comment: "Mujer que enseña en una escuela o institución educativa."
+},
     Lüdenscheidt: {
         word: "'Lüdenscheidt'",
         traduction: "Lüdenscheid",
@@ -394,6 +419,11 @@ const vocabulary = {
         traduction: "cita",
         comment: "Tener una cita, un encuentro con una persona."
     },
+Verantwortung: {
+    word: "verantwortung",
+    traduction: "responsabilidad",
+    comment: "Capacidad de asumir obligaciones y responder por las propias acciones."
+},
     Verlag: {
         word: "'verlag'",
         traduction: "editorial",
@@ -429,6 +459,12 @@ const vocabulary = {
         traduction: "elige / selecciona",
         comment: "Verbo. Forma de 'wählen' en presente. Escoger entre opciones."
     },
+Warm: {
+    word: "warm",
+    traduction: "calor",
+    comment: "Sensación de alta temperatura o temperatura agradable."
+},
+
     Weiterentwicklung: {
         word: "'Weiterentwicklung'",
         traduction: "desarrollo adicional",
