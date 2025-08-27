@@ -14,7 +14,6 @@ const agenda = [
 	"webscan",	
     "Tinderella",
     "Puente",
-    "Earthserver",
     "Mecanicas + Teyvat",
     "laligapro",
     "fotografias viaje",
