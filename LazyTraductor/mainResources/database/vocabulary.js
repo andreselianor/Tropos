@@ -49,11 +49,11 @@ const vocabulary = {
         traduction: "ofrecer",
         comment: "Dar algo voluntariamente o poner algo a disposición de alguien."
     },
-Antwort: {
-    word: "Antwort",
-    traduction: "respuesta",
-    comment: "Reacción o contestación a una pregunta, mensaje o situación."
-},
+    Antwort: {
+        word: "Antwort",
+        traduction: "respuesta",
+        comment: "Reacción o contestación a una pregunta, mensaje o situación."
+    },
     Anzug: {
         word: "Anzug",
         traduction: "traje",
@@ -84,15 +84,40 @@ Antwort: {
         traduction: "morder",
         comment: "Verbo irregular para el verbo de morder."
     },
+    Beschäftigen: {
+        word: "'beschäftigen'",
+        traduction: "ocuparse de algo",
+        comment: "Verbo para ocuparse de alguna tarea intelectual."
+    },
     Bieten: {
         word: "'bieten'",
         traduction: "ofrecer",
         comment: "Verbo. Indica dar o proponer algo."
     },
+    Bitten: {
+        word: "'bitten'",
+        traduction: "pedir, rogar",
+        comment: "Verbo. Indica pedir algo."
+    },
+    Bitte: {
+        word: "'bitte'",
+        traduction: "auxiliar de peticion, agradecimiento",
+        comment: "La expresion 'Bitte schön' indica agradecimiento de vuelta."
+    },
     Billig: {
         word: "'billig'",
         traduction: "barato",
         comment: "Adjetivo. Implica un precio bajo."
+    },
+    Brauchen: {
+        word: "'brauchen'",
+        traduction: "necesitar",
+        comment: "Verbo. Se usa para solicitar alguna cosa para nostros."
+    },
+    Brunnen: {
+        word: "'der Brunnen'",
+        traduction: "el pozo",
+        comment: "Sustantivo para denominar un pozo de agua."
     },
     D: {
         word: "'D'",
@@ -144,10 +169,20 @@ Antwort: {
         traduction: "torre de televisión",
         comment: "Estructura para transmitir señales."
     },
+    Folgen: {
+        word: "'folgen'",
+        traduction: "seguir a alguien",
+        comment: "Verbo. Se usa para indicar seguimiento de algo."
+    },
     G: {
         word: "'G'",
         traduction: "Worten Mit 'G'",
         comment: ""
+    },
+    Gehen: {
+        word: "gehen",
+        traduction: "ir a algun lugar",
+        comment: "Verbo. Indica ir a un lugar específico."
     },
     Genaues: {
         word: "genaues",
@@ -189,11 +224,11 @@ Antwort: {
         traduction: "clara",
         comment: "el contrario es 'dunkel'."
     },
-Heizung: {
-    word: "Heizung",
-    traduction: "calefacción",
-    comment: "Sistema para calentar el interior de un edificio."
-},
+    Heizung: {
+        word: "Heizung",
+        traduction: "calefacción",
+        comment: "Sistema para calentar el interior de un edificio."
+    },
     Hemd: {
         word: "Hemd",
         traduction: "camisa",
@@ -214,11 +249,11 @@ Heizung: {
         traduction: "trae",
         comment: "Verbo. Forma de 'holen', en presente."
     },
-Holzhaus: {
-    word: "holzhaus",
-    traduction: "casa de madera",
-    comment: "Vivienda construida principalmente con madera."
-},
+    Holzhaus: {
+        word: "holzhaus",
+        traduction: "casa de madera",
+        comment: "Vivienda construida principalmente con madera."
+    },
     I: {
         word: "'I'",
         traduction: "Worten Mit 'I'",
@@ -234,6 +269,16 @@ Holzhaus: {
         traduction: "Worts Mit 'K'",
         comment: ""
     },
+    Kalt: {
+        word: "Kalt",
+        traduction: "frío",
+        comment: "Adjetivo. Sensación de baja temperatura."
+    },
+    Kassierer: {
+        word: "'Kassierer'",
+        traduction: "cajero",
+        comment: "Empleado que maneja pagos en tienda o banco."
+    },
     Kleiderschrank: {
         word: "'K'",
         traduction: "Armario de ropa",
@@ -244,26 +289,26 @@ Holzhaus: {
         traduction: "camarero",
         comment: "Persona que atiende mesas en un restaurante."
     },
-Kalt: {
-    word: "Kalt",
-    traduction: "frío",
-    comment: "Adjetivo. Sensación de baja temperatura."
-},
-    Kassierer: {
-        word: "'Kassierer'",
-        traduction: "cajero",
-        comment: "Empleado que maneja pagos en tienda o banco."
+    Kümmern: {
+        word: "'kümmern'",
+        traduction: "ocuparse de los pequeños",
+        comment: "Verbo. Se usa para ocuparse de los pequeños."
     },
     L: {
         word: "'L'",
         traduction: "Worts Mit 'L'",
         comment: ""
     },
-Lehrerin: {
-    word: "lehrerin",
-    traduction: "profesora",
-    comment: "Mujer que enseña en una escuela o institución educativa."
-},
+    Laufen: {
+        word: "laufen",
+        traduction: "caminar",
+        comment: "Verbo. Caminar de manera rápida hacia un lugar."
+    },
+    Lehrerin: {
+        word: "lehrerin",
+        traduction: "profesora",
+        comment: "Mujer que enseña en una escuela o institución educativa."
+    },
     Lüdenscheidt: {
         word: "'Lüdenscheidt'",
         traduction: "Lüdenscheid",
@@ -419,11 +464,11 @@ Lehrerin: {
         traduction: "cita",
         comment: "Tener una cita, un encuentro con una persona."
     },
-Verantwortung: {
-    word: "verantwortung",
-    traduction: "responsabilidad",
-    comment: "Capacidad de asumir obligaciones y responder por las propias acciones."
-},
+    Verantwortung: {
+        word: "verantwortung",
+        traduction: "responsabilidad",
+        comment: "Capacidad de asumir obligaciones y responder por las propias acciones."
+    },
     Verlag: {
         word: "'verlag'",
         traduction: "editorial",
@@ -454,17 +499,26 @@ Verantwortung: {
         traduction: "Sucesos que ocurren mientras esperas",
         comment: "Los hechos que suceden a tu alrededor mientras esperas un acontecimiento."
     },
+    W: {
+        word: "'W'",
+        traduction: "Worten Mit 'W'",
+        comment: ""
+    },
     Wählt: {
         word: "wählt",
         traduction: "elige / selecciona",
         comment: "Verbo. Forma de 'wählen' en presente. Escoger entre opciones."
     },
-Warm: {
-    word: "warm",
-    traduction: "calor",
-    comment: "Sensación de alta temperatura o temperatura agradable."
-},
-
+    Wandern: {
+        word: "wandern",
+        traduction: "caminar por la naturaleza",
+        comment: "Verbo. Se refiere a pasear por un lugar despreocupadamente."
+    },
+    Warm: {
+        word: "warm",
+        traduction: "calor",
+        comment: "Sensación de alta temperatura o temperatura agradable."
+    },
     Weiterentwicklung: {
         word: "'Weiterentwicklung'",
         traduction: "desarrollo adicional",
