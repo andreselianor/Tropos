@@ -7,7 +7,10 @@ const vocabulary = {
     A: {
         word: "'A'",
         traduction: "Worten Mit 'A'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Abwarten: {
         word: "Abwarten",
@@ -62,7 +65,10 @@ const vocabulary = {
     B: {
         word: "'B'",
         traduction: "Worten Mit 'B'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Blättert: {
         word: "'blättern'",
@@ -122,7 +128,10 @@ const vocabulary = {
     D: {
         word: "'D'",
         traduction: "Worten Mit 'D'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Dienst: {
         word: "'dienst'",
@@ -142,7 +151,10 @@ const vocabulary = {
     E: {
         word: "'E'",
         traduction: "Worten Mit 'E'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Erwünscht: {
         word: "'erwünscht'",
@@ -152,7 +164,10 @@ const vocabulary = {
     F: {
         word: "'F'",
         traduction: "Worten Mit 'F'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Fremdsprache: {
         word: "'Fremdsprache'",
@@ -177,7 +192,10 @@ const vocabulary = {
     G: {
         word: "'G'",
         traduction: "Worten Mit 'G'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Gehen: {
         word: "gehen",
@@ -217,7 +235,10 @@ const vocabulary = {
     H: {
         word: "'H'",
         traduction: "Worten Mit 'H'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Helle: {
         word: "helle",
@@ -257,7 +278,10 @@ const vocabulary = {
     I: {
         word: "'I'",
         traduction: "Worten Mit 'I'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Imbissverkäufer: {
         word: "'Imbissverkäufer'",
@@ -267,7 +291,10 @@ const vocabulary = {
     K: {
         word: "'K'",
         traduction: "Worts Mit 'K'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Kalt: {
         word: "Kalt",
@@ -297,7 +324,10 @@ const vocabulary = {
     L: {
         word: "'L'",
         traduction: "Worts Mit 'L'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Laufen: {
         word: "laufen",
@@ -317,7 +347,10 @@ const vocabulary = {
     M: {
         word: "'M'",
         traduction: "Worts Mit 'M'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Markiert: {
         word: "'markiert'",
@@ -347,7 +380,10 @@ const vocabulary = {
     N: {
         word: "'N'",
         traduction: "Worten Mit 'N'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Nützlich: {
         word: "'nützlich'",
@@ -367,7 +403,10 @@ const vocabulary = {
     O: {
         word: "'O'",
         traduction: "Worten Mit 'O'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Offëntlich: {
         word: "offëntlich",
@@ -377,7 +416,10 @@ const vocabulary = {
     P: {
         word: "'P'",
         traduction: "Worten Mit 'P'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Pünktlich: {
         word: "pünktlich",
@@ -387,7 +429,10 @@ const vocabulary = {
     S: {
         word: "'S'",
         traduction: "Worten Mit 'S'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Schild: {
         word: "'schild'",
@@ -422,7 +467,10 @@ const vocabulary = {
     T: {
         word: "'T'",
         traduction: "Worten Mit 'T'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Teamfähigkeit: {
         word: "Teamfähigkeit",
@@ -447,7 +495,10 @@ const vocabulary = {
     U: {
         word: "'U'",
         traduction: "Worten Mit 'U'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Unbedingt: {
         word: "unbedingt",
@@ -457,7 +508,10 @@ const vocabulary = {
     V: {
         word: "'V'",
         traduction: "Worten Mit 'V'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Verabredung: {
         word: "'verabredung'",
@@ -502,7 +556,10 @@ const vocabulary = {
     W: {
         word: "'W'",
         traduction: "Worten Mit 'W'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Wählt: {
         word: "wählt",
@@ -532,7 +589,10 @@ const vocabulary = {
     Z: {
         word: "'P'",
         traduction: "Worten Mit 'Z'",
-        comment: ""
+        comment: "",
+        font: {
+            bold: true
+        }
     },
     Zeigen: {
         word: "zeigen",
