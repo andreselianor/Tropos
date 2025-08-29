@@ -22,9 +22,16 @@ nav {
     src: url(./Montserrat-Regular.ttf);
 }
 
-#web_nav,
+#web_nav {
+    width: 90px;
+}
+
 #agenda_nav {
-    width: 180px;
+    width: 120px;
+}
+
+#description_nav {
+    width: 100px;
 }
 
 p {
