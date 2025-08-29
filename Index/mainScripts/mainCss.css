@@ -19,19 +19,13 @@ nav {
 
 @font-face {
     font-family: texts;
-    src: url(./Montserrat-Regular.ttf);
+    src: url(../mainResources/fonts/Montserrat-Regular.ttf);
 }
 
-#web_nav {
-    width: 90px;
-}
-
+#web_nav,
 #agenda_nav {
-    width: 120px;
-}
-
-#description_nav {
-    width: 100px;
+    width: 180px;
+    cursor: pointer;
 }
 
 p {
@@ -56,9 +50,16 @@ ul {
 
 li {
     font-size: 11pt;
-    cursor: url("heart.png") 10 10, pointer;
+    cursor: pointer;
 }
 
 li:hover {
     background-color: rgba(240, 128, 128, 0.4);
+}
+
+.description {
+    display: none;
+    padding-left: 20px;
+    font-size: 10pt;
+    color: mediumslateblue;
 }
