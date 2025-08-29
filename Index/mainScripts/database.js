@@ -1,5 +1,9 @@
 const agenda = {
-    Urbanismo: {
+    Cromos: {
+        title: "Cromos",
+        description: "Proyecto de cromos 3D"
+    },
+	Urbanismo: {
         title: "Urbanismo",
         description: "Porfolio del sector 'Medianas'"
     },
