@@ -10,6 +10,9 @@ const agenda = {
     Urbanismo: {
         title: "Urbanismo",
         description: "En planeamiento sector 'Jardín Villa Diagonal '."
+    },Decoracion: {
+        title: "Decoracion",
+        description: "Comprar mantel y medidas."
     },
     Viajes: {
         title: "Viajes",
