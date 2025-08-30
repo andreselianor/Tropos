@@ -3,104 +3,100 @@ const agenda = {
         title: "Cromos",
         description: "Proyecto de cromos 3D"
     },
-	Urbanismo: {
+    FlickMovies: {
+        title: "FlickMovies",
+        description: "Completar el resto de categorias. Añadir imagenes a las categorias."
+    },
+    Urbanismo: {
         title: "Urbanismo",
-        description: "Porfolio del sector 'Medianas'"
+        description: "En planeamiento sector 'Jardín Villa Diagonal '."
     },
     Viajes: {
         title: "Viajes",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Preparacion de viajes a distintos destinos: Novelda, La Nucia, Cuenca, Madrid."
     },
     Antkind: {
         title: "Antkind",
-        description: "Porfolio del sector 'Medianas'"
-    },
-    EcosEsen: {
-        title: "EcosEsen",
-        description: "Porfolio del sector 'Medianas'"
-    },
-    Fotografias: {
-        title: "Fotografias",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Puesta a punto del proyecto de recuperación y lectura de libros. Recuperación de webapp."
     },
     SteamCollective: {
-        title: "SteamCollective",
-        description: "Porfolio del sector 'Medianas'"
+        title: "Steam Collective",
+        description: "Preparación del proyecto."
     },
     CodeLearning: {
-        title: "CodeLearning",
-        description: "Porfolio del sector 'Medianas'"
+        title: "Code Learning",
+        description: "Continuar estudiando JAVA, Phyton y C# desde 'exercism'."
     },
     EveonlineTshirt: {
-        title: "EveonlineTshirt",
-        description: "Porfolio del sector 'Medianas'"
+        title: "Eveonline Tshirt",
+        description: "Imprimir imagenes. Llevar imagenes en un pendrive."
     },
     SmartElectronics: {
         title: "SmartElectronics",
-        description: "Porfolio del sector 'Medianas'"
-    },
-    Webscan: {
-        title: "Webscan",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Compra en Tienda online de productos electrónicos: Breadboard, leds, cables y pilas."
     },
     Tinderella: {
         title: "Tinderella",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Avance en proyecto de Tinder replica."
     },
     Puente: {
         title: "Puente",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Completar las protecciones de las pilas del puente."
     },
     Mecanicas: {
         title: "Mecanicas",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Puesta a punto de las distintas mecánicas."
     },
     Teyvat: {
         title: "Teyvat",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Cierre de categorías de Teyvat."
     },
     LaLigaPro: {
         title: "LaLigaPro",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Imprimir cromos faltantes para completar la colección."
     },
     FotografiasViaje: {
-        title: "FotografiasViaje",
-        description: "Porfolio del sector 'Medianas'"
-    },
-    Europa: {
-        title: "Europa",
-        description: "Porfolio del sector 'Medianas'"
+        title: "Fotografias Viaje",
+        description: "Terminar el producto de anillas."
     },
     Periodismo: {
         title: "Periodismo",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Continuar con los recortes de periódico."
     },
     Gmail: {
         title: "Gmail",
-        description: "Porfolio del sector 'Medianas'"
-    },
-    Fotoperiodismo: {
-        title: "Fotoperiodismo",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Ordenar todas la información que llega por email."
     },
     Cocemfe: {
         title: "Cocemfe",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Completar la relación con Cocemfe."
     },
     Labora: {
         title: "Labora",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Entrevista con la orientadora."
+    },
+    Trabajo: {
+        title: "Trabajo",
+        description: "Actualización de redes de búsqueda de empleo."
     },
     Copperplate: {
         title: "Copperplate",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Almacenar proyecto."
     },
     HalleCollection: {
         title: "HalleCollection",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Diseño del proyecto de catálogo de películas."
     },
     Adultos: {
         title: "Adultos",
-        description: "Porfolio del sector 'Medianas'"
+        description: "Completar la aplicación."
+    },
+    EcosEsen: {
+        title: "EcosEsen",
+        description: "Recuperar documentos."
+    },
+    Webscan: {
+        title: "Webscan",
+        description: "Diseño de proyecto de webscan."
     }
 }
