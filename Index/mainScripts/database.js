@@ -14,7 +14,7 @@ const agenda = {
     Urbanismo: {
         title: "Urbanismo",
         description: "En planeamiento sector 'Jardín Villa Diagonal '."
-    },Decoracion: {
+    }, Decoracion: {
         title: "Decoracion",
         description: "Comprar mantel y medidas."
     },
