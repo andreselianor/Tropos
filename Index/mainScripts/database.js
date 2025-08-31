@@ -7,6 +7,10 @@ const agenda = {
         title: "FlickMovies",
         description: "Completar el resto de categorias. Añadir imagenes a las categorias."
     },
+    ITInstitute: {
+        title: "ITInstitute",
+        description: "Mash up entre música de baile y música clásica."
+    },
     Urbanismo: {
         title: "Urbanismo",
         description: "En planeamiento sector 'Jardín Villa Diagonal '."
