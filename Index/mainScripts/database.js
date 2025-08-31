@@ -105,5 +105,9 @@ const agenda = {
     Webscan: {
         title: "Webscan",
         description: "Diseño de proyecto de webscan."
+    },
+    Bookmarks: {
+        title: "Bookmarks",
+        description: "Pagina web con marcadores."
     }
 }
