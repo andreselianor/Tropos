@@ -44,7 +44,7 @@ const agenda = {
     },
     Tinderella: {
         title: "Tinderella",
-        description: "Avance en proyecto de Tinder replica."
+        description: "Revisar aplicación móvil."
     },
     Puente: {
         title: "Puente",
@@ -96,7 +96,7 @@ const agenda = {
     },
     Adultos: {
         title: "Adultos",
-        description: "Completar la aplicación."
+        description: "Poner a prueba la aplicación."
     },
     EcosEsen: {
         title: "EcosEsen",
