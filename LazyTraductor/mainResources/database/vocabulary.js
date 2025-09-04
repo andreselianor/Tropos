@@ -184,6 +184,11 @@ const vocabulary = {
         traduction: "torre de televisión",
         comment: "Estructura para transmitir señales."
     },
+    Flach: {
+        word: "'flach'",
+        traduction: "plano",
+        comment: "Adjetivo que demuestra sencillez de forma."
+    },
     Folgen: {
         word: "'folgen'",
         traduction: "seguir a alguien",
@@ -481,6 +486,11 @@ const vocabulary = {
         word: "'Telefonstimme'",
         traduction: "voz telefónica",
         comment: "Sonido de voz a través del teléfono."
+    },
+    Teller: {
+        word: "'Teller'",
+        traduction: "Plato de vajilla",
+        comment: "Generico de objeto destinado a la comida."
     },
     Termin: {
         word: "Termin",
