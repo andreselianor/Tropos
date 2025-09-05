@@ -9,7 +9,6 @@ body {
     font-family: texts;
 }
 
-
 nav {
     margin-top: 15px;
     width: 400px;
@@ -24,7 +23,7 @@ nav {
 
 #web_nav,
 #agenda_nav {
-    width: 180px;
+    width: 380px;
     cursor: pointer;
 }
 
@@ -38,7 +37,7 @@ p:hover {
 
 ul {
     list-style: none;
-    width: 180px;
+    width: 380px;
     visibility: hidden;
 }
 
