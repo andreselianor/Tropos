@@ -538,6 +538,11 @@ const vocabulary = {
         traduction: "editorial",
         comment: "Empresa que publica libros o revistas."
     },
+    Versicherung: {
+        word: "'versicherung'",
+        traduction: "seguro",
+        comment: "Adjetivo. Aporta seguridad.
+    },
     Voraussetzung: {
         word: "'voraussetzung'",
         traduction: "requisito",
