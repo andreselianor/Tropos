@@ -207,11 +207,6 @@ const vocabulary = {
         traduction: "ir a algun lugar",
         comment: "Verbo. Indica ir a un lugar específico."
     },
-    Genaues: {
-        word: "genaues",
-        traduction: "preciso / exacto",
-        comment: "Adjetivo. Algo específico o detallado."
-    },
     Gekocht: {
         word: "'kochen'",
         traduction: "cocinado",
@@ -231,6 +226,21 @@ const vocabulary = {
         word: "gekleidet",
         traduction: "vestido",
         comment: "Adjetivo. Describe cómo va una persona vestida."
+    },
+    Gescheit: {
+        word: "gescheit",
+        traduction: "inteligente, sensato",
+        comment: "Adjetivo. Una persona capaz de aprender y razonar."
+    },
+    Genaues: {
+        word: "genaues",
+        traduction: "preciso / exacto",
+        comment: "Adjetivo. Algo específico o detallado."
+    },
+    Gewitzt: {
+        word: "gewitzt",
+        traduction: "ingenioso / astuto",
+        comment: "Adjetivo. Una persona perspicaz."
     },
     Grösse: {
         word: "'grösse'",
@@ -302,7 +312,7 @@ const vocabulary = {
         }
     },
     Kalt: {
-        word: "Kalt",
+        word: "kalt",
         traduction: "frío",
         comment: "Adjetivo. Sensación de baja temperatura."
     },
@@ -315,6 +325,11 @@ const vocabulary = {
         word: "'K'",
         traduction: "Armario de ropa",
         comment: "Donde se guarda la ropa de vestir."
+    },
+    Klug: {
+        word: "'klug'",
+        traduction: "Inteligente",
+        comment: "Forma académica para el adjetivo de listo."
     },
     Kellner: {
         word: "'Kellner'",
