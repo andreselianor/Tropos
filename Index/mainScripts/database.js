@@ -3,18 +3,6 @@ const agenda = {
     title: "Periodismo",
     description: "Continuar con los recortes de periódico."
   },
-  Google: {
-    title: "Google",
-    description: "Gestionar productos Google."
-  },
-  Imprimir: {
-    title: "Imprimir",
-    description: "laliga + eveonline"
-  },
-  LaLigaPro: {
-    title: "LaLigaPro",
-    description: "Completar album + base de datos."
-  },
   FotografiasViaje: {
     title: "Fotografias Viaje",
     description: "Terminar el producto de anillas."
@@ -22,6 +10,14 @@ const agenda = {
   Fotografiasalbum: {
     title: "Fotografias Album",
     description: "Terminar el producto de album."
+  },
+  LaLigaPro: {
+    title: "LaLigaPro",
+    description: "Completar album + base de datos."
+  },
+  Google: {
+    title: "Google",
+    description: "Gestionar productos Google."
   },
   Decoracion: {
     title: "Decoracion",
@@ -45,7 +41,7 @@ const agenda = {
   },
   Tinderella: {
     title: "Tinderella",
-    description: "Factorizacion de codigo fuente.."
+    description: "Factorizacion de codigo fuente."
   },
   Bookmarks: {
     title: "Bookmarks",
