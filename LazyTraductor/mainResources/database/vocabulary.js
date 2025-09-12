@@ -556,7 +556,7 @@ const vocabulary = {
   Versicherung: {
     word: "'versicherung'",
     traduction: "seguro",
-    comment: "Adjetivo. Aporta seguridad.
+    comment: "Adjetivo. Aporta seguridad."
   },
   Voraussetzung: {
     word: "'voraussetzung'",
