@@ -1,8 +1,4 @@
 const agenda = {
-  Periodismo: {
-    title: "Periodismo",
-    description: "Continuar con los recortes de periódico."
-  },
   FotografiasViaje: {
     title: "Fotografias Viaje",
     description: "Terminar el producto de anillas."
@@ -18,10 +14,6 @@ const agenda = {
   Google: {
     title: "Google",
     description: "Gestionar productos Google."
-  },
-  Decoracion: {
-    title: "Decoracion",
-    description: "Comprar mantel y medidas."
   },
   FlickMovies: {
     title: "FlickMovies",
@@ -46,10 +38,6 @@ const agenda = {
   Bookmarks: {
     title: "Bookmarks",
     description: "Pagina web con marcadores."
-  },
-  Cocemfe: {
-    title: "Cocemfe",
-    description: "Completar la relación con Cocemfe."
   },
   Labora: {
     title: "Labora",
@@ -79,9 +67,9 @@ const agenda = {
     title: "Copperplate",
     description: "Preparar proyecto."
   },
-  HalleCollection: {
-    title: "HalleCollection",
-    description: "Diseño del proyecto de catálogo de películas."
+  Diseño: {
+    title: "Diseño en parques",
+    description: "Comprar armario para decorar destino parque."
   },
   Puente: {
     title: "Puente",
