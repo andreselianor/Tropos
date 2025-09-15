@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: titles;
+    src: url(../mainResources/fonts/Nunito-Medium.ttf);
+}
+
+@font-face {
+    font-family: tags;
+    src: url(../mainResources/fonts/Raleway-Medium.ttf);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 320px;
+}
+
+div {
+    margin: 10px 0px;
+}
+
+button {
+    padding: 5px;
+}
+
+#title {
+    font-family: titles;
+    text-align-last: justify;
+}
+
+#cover img {
+    height: 320px;
+}
+
+#input {
+    display: flex;
+    justify-content: space-between;
+}
+
+#thiefs {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.thiefs-element {
+    margin-right: 10px;
+    font-family: tags;
+    font-size: 11pt;
+}
