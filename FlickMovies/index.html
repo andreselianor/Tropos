@@ -8,10 +8,12 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='./mainScripts/mainCss.css'>
     <link rel='icon' type='icon' href='./mainResources/icon/netflix-logo-icon.svg'>
+    <script src="./mainScripts/mainJs.js"></script>
 </head>
 
 <body>
     <main>
+        <!-- GENERO ACCION -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/placeholder.png" onclick="navigate(1365)" />
             <p>Películas de accion</p>
         </div>
@@ -27,15 +29,10 @@
                 onclick="navigate(6695)" />
             <p>Artes marciales</p>
         </div>
+
+        <!-- GENERO POLICIAS -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/gangsters.png" onclick="navigate(31851)" />
             <p>Películas de gansters</p>
-        </div>
-        <div id="card"><img class="cardImage" src="./mainResources/pictures/placeholder.png"
-                onclick="navigate(10118)" />
-            <p>Películas de superheroes</p>
-        </div>
-        <div id="card"><img class="cardImage" src="./mainResources/pictures/placeholder.png" onclick="navigate(7700)" />
-            <p>Películas del oeste</p>
         </div>
         <div id="card"><img class="cardImage" src="./mainResources/pictures/placeholder.png"
                 onclick="navigate(10702)" />
@@ -47,28 +44,41 @@
         <div id="card"><img class="cardImage" src="./mainResources/pictures/placeholder.png" onclick="navigate(9584)" />
             <p>Películas de policias</p>
         </div>
-        <div id="card"><img class="cardImage" src="./mainResources/pictures/clasicos_guerra.png"
+        <div id="card"><img class="cardImage" src="./mainResources/pictures/noir.png" onclick="navigate(7687)" />
+            <p>Film noir</p>
+        </div>
+
+        <!-- GENERO SUPERHEROES -->
+        <div id="card"><img class="cardImage" src="./mainResources/pictures/placeholder.png"
+                onclick="navigate(10118)" />
+            <p>Películas de superheroes</p>
+        </div>
+
+        <!-- GENERO WESTERN -->
+        <div id="card"><img class="cardImage" src="./mainResources/pictures/westerns.png" onclick="navigate(7700)" />
+            <p>Westerns</p>
+        </div>
+
+        <!-- GENERO BELICO -->
+        <div id="card"><img class="cardImage" src="./mainResources/pictures/belicas.png"
                 onclick="navigate(2125)" />
             <p>Películas bélicas y de acción</p>
-        </div> 
+        </div>
         <div id="card"><img class="cardImage" src="./mainResources/pictures/clasicos_guerra.png"
                 onclick="navigate(48744)" />
             <p>Clasicos de guerra</p>
-        </div>    
-        
-        
+        </div>
 
-        
+        <!-- GENERO POLITICA -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/drama_politico.png"
                 onclick="navigate(6616)" />
             <p>Drama politico</p>
         </div>
+
+        <!-- GENERO ROMANTICO -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/drama_romantico.png"
                 onclick="navigate(1255)" />
             <p>Drama romantico</p>
-        </div>
-        <div id="card"><img class="cardImage" src="./mainResources/pictures/belgas.png" onclick="navigate(262)" />
-            <p>Dramas belgas</p>
         </div>
         <div id="card"><img class="cardImage" src="./mainResources/pictures/sensual.png" onclick="navigate(35800)" />
             <p>Romances sensuales</p>
@@ -81,16 +91,22 @@
                 onclick="navigate(9916)" />
             <p>Cine romántico independiente</p>
         </div>
-        <div id="card"><img class="cardImage" src="./mainResources/pictures/noir.png" onclick="navigate(7687)" />
-            <p>Film noir</p>
+
+        <!-- GENERO DRAMA -->
+        <div id="card"><img class="cardImage" src="./mainResources/pictures/belgas.png" onclick="navigate(262)" />
+            <p>Dramas belgas</p>
         </div>
         <div id="card"><img class="cardImage" src="./mainResources/pictures/sudeste_asiatico.png"
                 onclick="navigate(9196)" />
             <p>Sudeste asiático</p>
         </div>
+
+        <!-- GENERO TERROR -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/misterio.png" onclick="navigate(9994)" />
             <p>Películas de misterio</p>
         </div>
+
+        <!-- GENERO EXPERIMENTAL -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/arte.png" onclick="navigate(29764)" />
             <p>Cine de arte</p>
         </div>
@@ -98,30 +114,35 @@
                 onclick="navigate(11079)" />
             <p>Películas experimentales</p>
         </div>
+
+        <!-- GENERO FANTASIA -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/fantasia.png" onclick="navigate(9744)" />
             <p>Películas de fantasía</p>
-        </div>
-        <div id="card"><img class="cardImage" src="./mainResources/pictures/westerns.png" onclick="navigate(7700)" />
-            <p>Westerns</p>
         </div>
         <div id="card"><img class="cardImage" src="./mainResources/pictures/musicales.png" onclick="navigate(32392)" />
             <p>Musicales clasicos</p>
         </div>
+
+        <!-- GENERO ANIME -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/anime.png" onclick="navigate(7424)" />
             <p>Anime</p>
         </div>
+
+        <!-- GENERO LGBTQ+ -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/LGBTQ+.png" onclick="navigate(500)" />
             <p>Dramas LGBTQ+</p>
         </div>
+
+        <!-- GENERO ESPAÑOLAS -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/españolas.png" onclick="navigate(58741)" />
             <p>Españolas</p>
         </div>
+
+        <!-- GENERO DOCUMENTALES -->
         <div id="card"><img class="cardImage" src="./mainResources/pictures/naturaleza.png" onclick="navigate(2595)" />
             <p>Documentales naturaleza</p>
         </div>
     </main>
-
-    <script src="./mainScripts/mainJs.js"></script>
 </body>
 
 </html>
