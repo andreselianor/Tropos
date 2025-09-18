@@ -3,13 +3,13 @@ const agenda = {
     title: "Fotografias Viaje",
     description: "Terminar el producto de anillas."
   },
-  Fotografiasalbum: {
-    title: "Fotografias Album",
-    description: "Terminar el producto de album."
+  InformacionUrbanistica: {
+    title: "Informacion historica",
+    description: "Información sobre edificios y barrios de Alicante en Archivo Municipal."
   },
-  LaLigaPro: {
-    title: "LaLigaPro",
-    description: "Completar album + base de datos."
+  Trastero: {
+    title: "Trastero",
+    description: "Fotografiar los elementos del trastero."
   },
   Google: {
     title: "Google",
@@ -19,13 +19,13 @@ const agenda = {
     title: "FlickMovies",
     description: "Completar el resto de categorias. Añadir imagenes a las categorias."
   },
-  ITInstitute: {
-    title: "ITInstitute",
-    description: "Mash up entre música de baile y música clásica."
-  },
   EveonlineTshirt: {
     title: "Eveonline Tshirt",
     description: "Fabricar camiseta."
+  },
+  Expositor: {
+    title: "Expositor",
+    description: "Decoración para exponer figurillas."
   },
   SmartElectronics: {
     title: "SmartElectronics",
@@ -34,6 +34,10 @@ const agenda = {
   Tinderella: {
     title: "Tinderella",
     description: "Factorizacion de codigo fuente."
+  },
+  HalCollection: {
+    title: "Hal Collection",
+    description: "web app con catalago de peliculas."
   },
   Bookmarks: {
     title: "Bookmarks",
@@ -63,10 +67,6 @@ const agenda = {
     title: "Code Learning",
     description: "Continuar estudiando JAVA, Phyton y C# desde 'exercism'."
   },
-  Copperplate: {
-    title: "Copperplate",
-    description: "Preparar proyecto."
-  },
   Diseño: {
     title: "Diseño en parques",
     description: "Comprar armario para decorar destino parque."
@@ -74,10 +74,6 @@ const agenda = {
   Puente: {
     title: "Puente",
     description: "Completar las protecciones de las pilas del puente."
-  },
-  Adultos: {
-    title: "Adultos",
-    description: "Poner a prueba la aplicación."
   },
   EcosEsen: {
     title: "EcosEsen",
@@ -90,6 +86,14 @@ const agenda = {
   Antkind: {
     title: "Antkind",
     description: "Puesta a punto del proyecto de recuperación y lectura de libros. Recuperación de webapp."
+  },
+  DNI: {
+    title: "DNI",
+    description: "añadir nombre."
+  },
+  ArquitectosSinFronteras: {
+    title: "Arquitectos sin fronteras",
+    description: "Investigar colegio de arquitectos."
   },
   Viajes: {
     title: "Viajes",
