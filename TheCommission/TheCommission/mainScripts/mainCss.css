@@ -43,7 +43,7 @@ body {
 
 button {
     width: 90px;
-    box-shadow: 10px 10px 10px lightcoral;
+    box-shadow: 5px 5px 5px lightcoral;
     border-radius: 3px;
     border: 1px solid black;
     padding: 10px
