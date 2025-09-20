@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#picture_container {
+    width: 400px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.picture {
+    width: 400px;
+    object-fit: cover;
+    border-radius: 10px 10px 0px 10px;
+}
+
+.paragraph {
+    float: inline-end;
+    font-style: italic;
+}
+
+#nav {
+    display: none;
+    width: 400px;
+    padding: 5px 10px;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+#cloud p {
+    width: 400px;
+    padding: 5px 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-end;
+}
+
+button {
+    width: 90px;
+    box-shadow: 10px 10px 10px lightcoral;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding: 10px
+}
