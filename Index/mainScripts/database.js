@@ -11,6 +11,10 @@ const agenda = {
     title: "Trastero",
     description: "Fotografiar los elementos del trastero."
   },
+  Trabajo: {
+    title: Trabajo",
+    description: "Website dashboard trabajo."
+  },
   Google: {
     title: "Google",
     description: "Gestionar productos Google."
