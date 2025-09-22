@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: texts;
+}
+
+@font-face {
+    font-family: texts;
+    src: url(../mainResources/fonts/Montserrat-Regular.ttf);
+}
+
+body {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#orihuela,
+#orihuela_ida,
+#orihuela_vuelta,
+#button_orihuela_ida,
+#button_orihuela_vuelta {
+    display: none;
+}
+
+table {
+    width: 380px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+button {
+    padding: 5px;
+    width: 380px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px lightblue;
+}
+
+td {
+    width: 380px;
+}
+
+td:hover {
+    background-color: rgba(240, 128, 128, 0.5);
+}
+
+th:hover {
+    background-color: rgba(153, 37, 37, 0.5);
+}
