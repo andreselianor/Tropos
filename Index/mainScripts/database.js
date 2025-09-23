@@ -7,10 +7,6 @@ const agenda = {
     title: "Informacion historica",
     description: "Información sobre edificios y barrios de Alicante en Archivo Municipal."
   },
-  Trastero: {
-    title: "Trastero",
-    description: "Fotografiar los elementos del trastero."
-  },
   Trabajo: {
     title: "Trabajo",
     description: "Website dashboard trabajo."
@@ -22,10 +18,6 @@ const agenda = {
   FlickMovies: {
     title: "FlickMovies",
     description: "Completar el resto de categorias. Añadir imagenes a las categorias."
-  },
-  EveonlineTshirt: {
-    title: "Eveonline Tshirt",
-    description: "Fabricar camiseta."
   },
   Expositor: {
     title: "Expositor",
@@ -90,17 +82,5 @@ const agenda = {
   Antkind: {
     title: "Antkind",
     description: "Puesta a punto del proyecto de recuperación y lectura de libros. Recuperación de webapp."
-  },
-  DNI: {
-    title: "DNI",
-    description: "añadir nombre."
-  },
-  ArquitectosSinFronteras: {
-    title: "Arquitectos sin fronteras",
-    description: "Investigar colegio de arquitectos."
-  },
-  Viajes: {
-    title: "Viajes",
-    description: "Preparacion de viajes a distintos destinos: Novelda, La Nucia, Cuenca, Madrid."
   }
 }
