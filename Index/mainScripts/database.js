@@ -1,31 +1,28 @@
 const agenda = {
-  FotografiasViaje: {
-    title: "Fotografias Viaje",
-    description: "Terminar el producto de anillas."
-  },
-  InformacionUrbanistica: {
-    title: "Informacion historica",
-    description: "Información sobre edificios y barrios de Alicante en Archivo Municipal."
-  },
   Trabajo: {
     title: "Trabajo",
-    description: "Website dashboard trabajo."
+    description: "Website dashboard / Cita Labora orientacion laboral / Actualizar redes de busqueda",
+    weight: "bold"
+  },
+  Gestion: {
+    title: "Gestion",
+    weight: "bold"
   },
   Google: {
     title: "Google",
     description: "Gestionar productos Google."
   },
+  Creatividad: {
+    title: "Creatividad",
+    weight: "bold"
+  },
+  Fotografias: {
+    title: "Fotografias",
+    description: "Viaje Tios / Revistas ciudades",
+  },
   FlickMovies: {
     title: "FlickMovies",
     description: "Completar el resto de categorias. Añadir imagenes a las categorias."
-  },
-  Expositor: {
-    title: "Expositor",
-    description: "Decoración para exponer figurillas."
-  },
-  SmartElectronics: {
-    title: "SmartElectronics",
-    description: "Compra en Tienda online de productos electrónicos: Breadboard, leds, cables y pilas."
   },
   Tinderella: {
     title: "Tinderella",
@@ -39,29 +36,9 @@ const agenda = {
     title: "Bookmarks",
     description: "Pagina web con marcadores."
   },
-  Labora: {
-    title: "Labora",
-    description: "Entrevista con la orientadora."
-  },
-  Trabajo: {
-    title: "Trabajo",
-    description: "Actualización de redes de búsqueda de empleo."
-  },
-  CromosSteam: {
-    title: "Cromos Steam",
-    description: "Proyecto de cromos 3D sobre productos Steam."
-  },
-  SteamLegacy: {
-    title: "Steam Legacy",
-    description: "Preparación de las bases."
-  },
-  Urbanismo: {
-    title: "Urbanismo",
-    description: "En planeamiento sector 'Jardín Villa Diagonal'."
-  },
-  CodeLearning: {
-    title: "Code Learning",
-    description: "Continuar estudiando JAVA, Phyton y C# desde 'exercism'."
+  Webscan: {
+    title: "Webscan",
+    description: "Diseño de proyecto de webscan."
   },
   Diseño: {
     title: "Diseño en parques",
@@ -71,13 +48,49 @@ const agenda = {
     title: "Puente",
     description: "Completar las protecciones de las pilas del puente."
   },
+  Expositor: {
+    title: "Expositor",
+    description: "Decoración para exponer figurillas."
+  },
+  SmartElectronics: {
+    title: "SmartElectronics",
+    description: "Compra en Tienda online de productos electrónicos: Breadboard, leds, cables y pilas."
+  },
+  Ciudad: {
+    title: "Ciudad",
+    weight: "bold"
+  },
+  InformacionUrbanistica: {
+    title: "Informacion historica",
+    description: "Información sobre edificios y barrios de Alicante en Archivo Municipal."
+  },
+  Urbanismo: {
+    title: "Urbanismo",
+    description: "En planeamiento sector 'Jardín Villa Diagonal'."
+  },
+  Juegos: {
+    title: "Juegos",
+    weight: "bold"
+  },
+  CromosSteam: {
+    title: "Cromos Steam",
+    description: "Proyecto de cromos 3D sobre productos Steam."
+  },
+  SteamLegacy: {
+    title: "Steam Legacy",
+    description: "Preparación de las bases."
+  },
+  Personales: {
+    title: "Personales",
+    weight: "bold"
+  },
+  CodeLearning: {
+    title: "Code Learning",
+    description: "Continuar estudiando JAVA, Phyton y C# desde 'exercism'."
+  },
   EcosEsen: {
     title: "EcosEsen",
     description: "Recuperar documentos."
-  },
-  Webscan: {
-    title: "Webscan",
-    description: "Diseño de proyecto de webscan."
   },
   Antkind: {
     title: "Antkind",

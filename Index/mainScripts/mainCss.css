@@ -38,14 +38,16 @@ p:hover {
 ul {
     list-style: none;
     width: 380px;
-    visibility: hidden;
 }
 
-#content {
-    display: inline-flex;
+#content_agenda,
+#content_websites {
+    display: none;
     justify-content: space-around;
     width: 400px;
 }
+
+
 
 li {
     font-size: 11pt;
@@ -61,4 +63,8 @@ li:hover {
     padding-left: 20px;
     font-size: 10pt;
     color: mediumslateblue;
+}
+
+.bold {
+    font-weight: bold;
 }

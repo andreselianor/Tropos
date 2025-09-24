@@ -12,13 +12,15 @@ function setup() {
         // Crea los titulos de cada elemento
         let node = document.createElement("li");
         node.textContent = agenda[element].title;
+        if (agenda[element].weight == "bold")
+            node.classList.add("bold");
         root_agenda.appendChild(node);
 
         // Crea las descripciones de cada elemento
         let node_description = document.createElement("li");
         node_description.textContent = agenda[element].description;
         root_agenda.appendChild(node_description);
-        
+
         // Da formato a la descripcion y añade un switch de encendido
         node_description.classList.add("description");
         let switcher = true;
@@ -32,28 +34,17 @@ function setup() {
     };
 }
 
+
 // Refresca los elementos del NAV
 function displayNav(element) {
     // Oculta todos los elementos del nav
-    let allNav = document.querySelectorAll('ul')
-    allNav.forEach(nav => nav.style.visibility = "hidden");
+    let agendaElements = document.getElementById("content_agenda");
+    let websitesElements = document.getElementById("content_websites");
+
+    agendaElements.style.display = "none";
+    websitesElements.style.display = "none";
 
     // Visibiliza el elemento del nav que pasa por parametros
-    let visibleNav = document.getElementById(element);
-    visibleNav.style.visibility = "visible";
-}
-
-function setup2() {
-    let root_websites = document.getElementById("websites");
-    websites.forEach(function (element) {
-        let node = document.createElement("li");
-        node.textContent = element;
-        root_websites.appendChild(node);
-    });
-    let root_agenda = document.getElementById("agenda");
-    agenda.forEach(function (element) {
-        let node = document.createElement("li");
-        node.textContent = element;
-        root_agenda.appendChild(node);
-    });
+    let visibleContent = document.getElementById(element);
+    visibleContent.style.display = "inline-flex";
 }
