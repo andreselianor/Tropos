@@ -8,9 +8,29 @@ const agenda = {
     title: "Gestion",
     weight: "bold"
   },
-  Google: {
+  DNI: {
+    title: "Dni",
+    description: "Renovar DNI con foto."
+  },
+Dependencia: {
+    title: "Dependencia",
+    description: "Cita con la asistente social."
+  },
+Psiquiatra: {
+    title: "Psiquiatra",
+    description: "Cita con la psiquiatra."
+  },
+Google: {
     title: "Google",
     description: "Gestionar productos Google."
+  },
+Salud: {
+    title: "Salud",
+    description: "",
+    weight: "bold"
+  },Analitica: {
+    title: "Analitica",
+    description: "Centro de salud"
   },
   Creatividad: {
     title: "Creatividad",
