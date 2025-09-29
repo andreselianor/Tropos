@@ -8,7 +8,8 @@ const pictures = {
         "./TheCommission/mainResources/commissioners/foreign/pictures/2025-08-31.png",
         "./TheCommission/mainResources/commissioners/foreign/pictures/2025-09-02.png",
         "./TheCommission/mainResources/commissioners/foreign/pictures/2025-09-12.png",
-        "./TheCommission/mainResources/commissioners/foreign/pictures/2025-09-17.png"
+        "./TheCommission/mainResources/commissioners/foreign/pictures/2025-09-17.png",
+        "./TheCommission/mainResources/commissioners/foreign/pictures/2025-09-27.png"
     ],
     mediterranean: [
         "./TheCommission/mainResources/commissioners/mediterranean/pictures/2025-09-23.png"
