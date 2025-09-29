@@ -57,7 +57,7 @@ ul {
 }
 
 
-@media (width <=400px) {
+@media (width <=420px) {
     main {
         justify-content: center;
     }
