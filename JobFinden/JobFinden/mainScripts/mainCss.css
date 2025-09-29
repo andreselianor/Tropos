@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main>* {
+    margin: 25px;
+}
+
+img {
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightblue;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+button {
+    width: 60px;
+}
+
+img,
+ul {
+    position: absolute;
+}
+
+ul {
+    width: 170px;
+    padding: 25px;
+}
+
+.container_image {
+    height: 200px;
+}
+
+.container_cloud {
+    width: 200px;
+    text-align: end;
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+.container_buttons_labora,
+.container_buttons_infojobs,
+.container_buttons_eulen,
+.container_buttons_clece {
+    width: 200px;
+    display: none;
+    justify-content: space-between;
+}
+
+
+@media (width <=400px) {
+    main {
+        justify-content: center;
+    }
+}
