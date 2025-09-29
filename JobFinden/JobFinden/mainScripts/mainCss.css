@@ -50,7 +50,11 @@ ul {
 .container_buttons_labora,
 .container_buttons_infojobs,
 .container_buttons_eulen,
-.container_buttons_clece {
+.container_buttons_clece,
+.container_buttons_adecco,
+.container_buttons_adeccof,
+.container_buttons_portalento,
+.container_buttons_portalentod {
     width: 200px;
     display: none;
     justify-content: space-between;
