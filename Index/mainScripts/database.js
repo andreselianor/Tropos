@@ -1,44 +1,37 @@
 const agenda = {
   Trabajo: {
     title: "Trabajo",
-    description: "Website dashboard / Cita Labora orientacion laboral / Actualizar redes de busqueda",
+    description: "Actualizar todos los CV / Testear 'Job Finden'",
     weight: "bold"
   },
   Gestion: {
     title: "Gestion",
     weight: "bold"
   },
-  DNI: {
-    title: "Dni",
-    description: "Renovar DNI con foto."
-  },
-Dependencia: {
+  Dependencia: {
     title: "Dependencia",
     description: "Cita con la asistente social."
   },
-Psiquiatra: {
+  Psiquiatra: {
     title: "Psiquiatra",
     description: "Cita con la psiquiatra."
   },
-Google: {
+  Google: {
     title: "Google",
     description: "Gestionar productos Google."
   },
-Salud: {
+  Salud: {
     title: "Salud",
     description: "",
     weight: "bold"
-  },Analitica: {
+  },
+  Analitica: {
     title: "Analitica",
     description: "Centro de salud"
   },
   Creatividad: {
     title: "Creatividad",
     weight: "bold"
-  },
-  Fotografias: {
-    title: "Fotografias",
-    description: "Viaje Tios / Revistas ciudades",
   },
   FlickMovies: {
     title: "FlickMovies",
