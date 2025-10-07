@@ -17,6 +17,7 @@ button {
     height: 110px;
     padding: 0px;
     margin: 5px;
+    cursor: pointer;
 }
 
 #image-container {
@@ -24,10 +25,30 @@ button {
     height: 200px;
     border-radius: 5px;
     margin: 10px;
+    cursor: pointer;
 }
 
 img {
-    cursor: pointer;
     width: 90px;
     height: 90px;
+}
+
+@media (width < 450px) {
+    #cloud-container {
+        width: 200px;
+        flex-wrap: wrap;
+        margin: 10px;
+    }
+
+    button {
+        width: 160px;
+        height: 160px;
+    }
+
+    #image-container {
+        width: 180px;
+        height: 180px;
+        border-radius: 5px;
+        margin: 10px;
+    }
 }
