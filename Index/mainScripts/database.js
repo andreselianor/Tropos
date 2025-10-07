@@ -8,6 +8,10 @@ const agenda = {
     title: "Gestion",
     weight: "bold"
   },
+  Redes: {
+    title: "Redes Sociales",
+    description: "WebApp with main Launcher all accounts"
+  },
   Dependencia: {
     title: "Dependencia",
     description: "Cita con la asistente social."
