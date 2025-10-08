@@ -37,6 +37,10 @@ const agenda = {
     title: "Creatividad",
     weight: "bold"
   },
+  Maqueta: {
+    title: "Maqueta",
+    description: "Volumenes de prismas. papel, cartulina, acetato, madera."
+  },
   FlickMovies: {
     title: "FlickMovies",
     description: "Completar el resto de categorias. Añadir imagenes a las categorias."
