@@ -32,11 +32,6 @@ const vocabulary = {
     traduction: "agradable",
     comment: "Adjetivo. Algo que causa afecto."
   },
-  Ausbau: {
-    word: "'Ausbau'",
-    traduction: "ampliación",
-    comment: "Mejora o extensión de infraestructura."
-  },
   Abteilung: {
     word: "'Abteilung'",
     traduction: "departamento",
@@ -62,6 +57,21 @@ const vocabulary = {
     traduction: "traje",
     comment: "Ropa formal que generalmente incluye chaqueta y pantalón."
   },
+  Aufgeregt: {
+    word: "'aufgeregt'",
+    traduction: "nervioso",
+    comment: "Estar nervioso por una situacion"
+  },
+  Ausbau: {
+    word: "'Ausbau'",
+    traduction: "ampliación",
+    comment: "Mejora o extensión de infraestructura."
+  },
+  Außerdem: {
+    word: "'Außerdem'",
+    traduction: "Ademas de",
+    comment: "Se usa en la primera posicion del verbo."
+  },
   B: {
     word: "'B'",
     traduction: "Worten Mit 'B'",
@@ -70,10 +80,10 @@ const vocabulary = {
       bold: true
     }
   },
-  Blättert: {
-    word: "'blättern'",
-    traduction: "hojear",
-    comment: "Verbo. Pasar páginas de un libro o revista."
+  Bettrit: {
+    word: "'betttir'",
+    traduction: "entrar en un lugar.",
+    comment: "Entrar en un lugar."
   },
   Bewerbung: {
     word: "'Bewerbung'",
@@ -114,6 +124,11 @@ const vocabulary = {
     word: "'billig'",
     traduction: "barato",
     comment: "Adjetivo. Implica un precio bajo."
+  },
+  Blättert: {
+    word: "'blättern'",
+    traduction: "hojear",
+    comment: "Verbo. Pasar páginas de un libro o revista."
   },
   Brauchen: {
     word: "'brauchen'",
@@ -173,6 +188,16 @@ const vocabulary = {
     word: "'Fremdsprache'",
     traduction: "idioma extranjero",
     comment: "Lengua distinta a la materna."
+  },
+  Freuen: {
+    word: "'Freuen'",
+    traduction: "Alegrarse por algo",
+    comment: "Alegrarse por algo."
+  },
+  Früher: {
+    word: "'Früher'",
+    traduction: "Antes",
+    comment: "Se usa para hablar de epocas pasadas."
   },
   Festanstellung: {
     word: "'Festanstellung'",
@@ -405,6 +430,11 @@ const vocabulary = {
       bold: true
     }
   },
+  Nach: {
+    word: "'nach / nachher'",
+    traduction: "Se usa para hablar de algo que ha sucedido despues.",
+    comment: "Se usa con el dativo."
+  },
   Nützlich: {
     word: "'nützlich'",
     traduction: "Adjetivo para 'útil'",
@@ -558,6 +588,11 @@ const vocabulary = {
     traduction: "seguro",
     comment: "Adjetivo. Aporta seguridad."
   },
+  Vor: {
+    word: "'vor / vorher'",
+    traduction: "antes",
+    comment: "Se usa con el dativo para hablar de momentos anteriores."
+  },
   Voraussetzung: {
     word: "'voraussetzung'",
     traduction: "requisito",
@@ -605,6 +640,11 @@ const vocabulary = {
     word: "warm",
     traduction: "calor",
     comment: "Sensación de alta temperatura o temperatura agradable."
+  },
+  Wecker: {
+    word: "'Wecker'",
+    traduction: "el despertador",
+    comment: "Artefacto de sonido."
   },
   Weiterentwicklung: {
     word: "'Weiterentwicklung'",
