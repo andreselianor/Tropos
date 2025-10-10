@@ -1,16 +1,16 @@
--- Acción y aventura (1365)
+-- Acción y aventura (1365)							<-oo
 -- Películas asiáticas de acción (77232)
 -- Clásicas de acción y aventura (46576)
 Comedias de acción (43040)
--- Thrillers de acción (43048)
+-- Thrillers de acción (43048)						<-oo
 Aventuras (7442)
--- Películas sobre cómics y superhéroes (10118)
--- Películas del Oeste (7700)
+-- Películas sobre cómics y superhéroes (10118)		<-oo
+-- Películas del Oeste (7700)						<-oo
 -- Acción y aventuras de espías (10702)
 -- Acción y aventuras policíacas (9584)
 -- Películas de artes marciales (8985)
 -- Acción y aventura bélicas (2125)
--- Anime (7424)
+-- Anime (7424)										<-oo
 Animación para adultos (11881)
 Animes de acción (2653)
 Animes de comedia (9302)
@@ -36,7 +36,7 @@ Con música para niños (52843)
 Historias de animales (5507)
 
 
--- Películas clásicas (31574)
+-- Películas clásicas (31574)					<-oo
 -- Comedias clásicas (31694)
 -- Dramas clásicos (29809)
 -- Ciencia ficción y fantásticas clásicas (47147)
@@ -48,7 +48,7 @@ Películas clásicas de guerra (48744)
 Epopeyas (52858)
 Películas modas (53310)
 Westerns clásicos (47465)
-Comedias (6548)
+Comedias (6548)									<-oo
 Comedias de humor negro (869)
 Comedias nocturnas (1402)
 Falsos documentales (26)
@@ -58,9 +58,9 @@ Comedias de deportes (5286)
 Monólogos de humoristas (11559)
 Comedias juveniles (3519)
 Parodias (4922)
-Comedias románticas (5475)
+Comedias románticas (5475)						<-oo
 Comedias de golpes y porrazos (10256)
-Películas de culto (7627)
+Películas de culto (7627)						<-oo
 Películas de terror de serie B (8195)
 Películas petardas (1252)
 Películas de terror de culto (10944)
@@ -78,7 +78,7 @@ Documentales sobre política (7018)
 Documentales religiosos (10005)
 Documentales sobre ciencia y naturaleza (2595)
 Documentales sociales y culturales (3675)
-Dramas (5763)
+Dramas (5763)									<-oo
 Dramas biográficos (3179)
 Dramas clásicos (29809)
 Dramas policíacos (6889)
@@ -95,7 +95,7 @@ Dramas políticos (6616)
 Dramas románticos (1255)
 Dramas sobre el mundo del espectáculo (5012)
 Dramas sociales (3947)
-Películas internacionales (7462)
+Películas internacionales (7462)					<-oo
 Cine de autor (29764)
 Películas africanas (3761)
 Películas australianas (5230)

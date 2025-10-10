@@ -8,21 +8,17 @@ const agenda = {
     title: "Gestion",
     weight: "bold"
   },
-  Redes: {
-    title: "Redes Sociales",
-    description: "WebApp with main Launcher all accounts"
-  },
   Dependencia: {
     title: "Dependencia",
     description: "Cita con la asistente social."
   },
-  Psiquiatra: {
-    title: "Psiquiatra",
-    description: "Cita con la psiquiatra."
+  SeguridadSocial: {
+    title: "Seguridad Social",
+    description: "Entregar la documentacion"
   },
   Google: {
     title: "Google",
-    description: "Gestionar productos Google."
+    description: "Comprobacion general de la cuenta."
   },
   Salud: {
     title: "Salud",
@@ -33,25 +29,17 @@ const agenda = {
     title: "Analitica",
     description: "Centro de salud"
   },
+  Psiquiatra: {
+    title: "Psiquiatra",
+    description: "Cita con la psiquiatra."
+  },
   Creatividad: {
     title: "Creatividad",
     weight: "bold"
   },
   Maqueta: {
-    title: "Maqueta",
+    title: "Prismas",
     description: "Volumenes de prismas. papel, cartulina, acetato, madera."
-  },
-  FlickMovies: {
-    title: "FlickMovies",
-    description: "Completar el resto de categorias. Añadir imagenes a las categorias."
-  },
-  Tinderella: {
-    title: "Tinderella",
-    description: "Factorizacion de codigo fuente."
-  },
-  HalCollection: {
-    title: "Hal Collection",
-    description: "web app con catalago de peliculas."
   },
   Bookmarks: {
     title: "Bookmarks",
@@ -88,18 +76,6 @@ const agenda = {
   Urbanismo: {
     title: "Urbanismo",
     description: "En planeamiento sector 'Jardín Villa Diagonal'."
-  },
-  Juegos: {
-    title: "Juegos",
-    weight: "bold"
-  },
-  CromosSteam: {
-    title: "Cromos Steam",
-    description: "Proyecto de cromos 3D sobre productos Steam."
-  },
-  SteamLegacy: {
-    title: "Steam Legacy",
-    description: "Preparación de las bases."
   },
   Personales: {
     title: "Personales",
