@@ -8,7 +8,7 @@ const URL_Flickr = "https://www.flickr.com";
 const URL_Pinterest = "https://www.pinterest.com";
 const URL_Deviantart = "https://www.deviantart.com";
 const URL_Vinted = "https://www.vinted.es";
-const URL_Tinder = "https://www.tinder.es";
+const URL_Tinder = "https://www.tinder.com";
 const URL_Meetic = "https://www.meetic.com";
 
 // variables

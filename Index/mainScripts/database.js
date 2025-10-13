@@ -85,9 +85,17 @@ const agenda = {
     title: "Code Learning",
     description: "Continuar estudiando JAVA, Phyton y C# desde 'exercism'."
   },
-  EcosEsen: {
-    title: "EcosEsen",
-    description: "Recuperar documentos."
+  LazyGerman: {
+    title: "Lazy German",
+    description: "Continuar libro de texto."
+  },
+  WebGerman: {
+    title: "Web German",
+    description: "Continuar estuduos web."
+  },
+  SqlLearning: {
+    title: "SQL learning",
+    description: "Aprender base de datos."
   },
   Antkind: {
     title: "Antkind",
