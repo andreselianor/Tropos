@@ -1,0 +1,12 @@
+{
+  "fecha": "2025-8-22",
+  "labora": true,
+  "infojobs": true,
+  "clece": true,
+  "eulen": true,
+  "adecco": true,
+  "adeccofundacion": true,
+  "portalento": true,
+  "portalentodigital": true,
+  "cocemfe": false
+}

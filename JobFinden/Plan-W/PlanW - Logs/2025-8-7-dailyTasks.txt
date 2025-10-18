@@ -1,0 +1,7 @@
+{
+  "fecha": "2025-8-7",
+  "labora": true,
+  "clece": true,
+  "infojobs": true,
+  "adecco": false
+}

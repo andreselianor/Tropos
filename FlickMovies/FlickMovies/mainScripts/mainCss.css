@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: texts;
+}
+
+@font-face {
+    font-family: texts;
+    src: url(../mainResources/fonts/Montserrat-Regular.ttf);
+}
+
+main {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 400px;
+    cursor: pointer;
+}
+
+card {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+section {
+    width: 400px;
+    display: none;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+card:hover {
+    background-color: lightcoral;
+}
+
+a {
+    display: contents;
+    text-decoration: none;
+    color: black;
+}
