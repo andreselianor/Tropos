@@ -1,7 +1,7 @@
 const agenda = {
   Trabajo: {
     title: "Trabajo",
-    description: "Actualizar todos los CV / Testear 'Job Finden'",
+    description: "",
     weight: "bold"
   },
     Redes: {
@@ -11,10 +11,6 @@ const agenda = {
   Gestion: {
     title: "Gestion",
     weight: "bold"
-  },
-  Dependencia: {
-    title: "Dependencia",
-    description: "Cita con la asistente social."
   },
   Google: {
     title: "Google",
