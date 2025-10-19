@@ -4,7 +4,7 @@ const agenda = {
     description: "",
     weight: "bold"
   },
-    Redes: {
+  Redes: {
     title: "Job Finden",
     description: "Actualizar todos los CV"
   },
@@ -96,5 +96,37 @@ const agenda = {
   Antkind: {
     title: "Antkind",
     description: "Puesta a punto del proyecto de recuperación y lectura de libros. Recuperación de webapp."
+  }
+}
+
+const projects = {
+  Cromo: {
+    title: "Cromos 3D",
+    description: "Creacion de cromos 3D",
+    decoration: "strike"
+  },
+  Seguridad: {
+    title: "Seguridad en bancos",
+    description: "Confirmar la seguridad de los bancos"
+  },
+  DatabaseNew: {
+    title: "Database new build",
+    description: "Script para generar nuevas bases de datos en nuevo lenguaje"
+  },
+  ScrollingLayers: {
+    title: "Scrolling 3 column layers",
+    description: "Aplicacion movil para Coleccionar fotos"
+  },
+  FlickMovies: {
+    title: "Deploy flick movies website",
+    description: "Desplegar version 3.1 de FlickMovies"
+  },
+  Puente: {
+    title: "Construccion de puente",
+    description: "Terminar la construccion del puente"
+  },
+  SmartElectronics: {
+    title: "Smart electronics",
+    description: "Preparar el nuevo hobby de la electronica."
   }
 }

@@ -22,7 +22,8 @@ nav {
 }
 
 #web_nav,
-#agenda_nav {
+#agenda_nav,
+#proyectos_nav {
     width: 380px;
     cursor: pointer;
 }
@@ -41,7 +42,8 @@ ul {
 }
 
 #content_agenda,
-#content_websites {
+#content_websites,
+#content_proyectos {
     display: none;
     justify-content: space-around;
     width: 400px;
@@ -67,4 +69,8 @@ li:hover {
 
 .bold {
     font-weight: bold;
+}
+
+.strike {
+    text-decoration: line-through;
 }
