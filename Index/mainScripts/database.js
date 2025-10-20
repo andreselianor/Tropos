@@ -107,7 +107,8 @@ const projects = {
   },
   Seguridad: {
     title: "Seguridad en bancos",
-    description: "Confirmar la seguridad de los bancos"
+    description: "Confirmar la seguridad de los bancos",
+    decoration: "strike"
   },
   DatabaseNew: {
     title: "Database new build",
