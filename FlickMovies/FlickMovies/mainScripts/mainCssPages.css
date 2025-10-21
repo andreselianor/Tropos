@@ -43,8 +43,42 @@ card:hover {
     background-color: lightcoral;
 }
 
-a {
-    display: contents;
-    text-decoration: none;
-    color: black;
+
+
+.international_spanish{
+    background-image: url(../mainResources/pictures/española.png);
+}
+
+.international_french{
+    background-image: url(../mainResources/pictures/francesa.png);
+    background-position: 150px 150px;
+}
+
+.international_italian{
+    background-image: url(../mainResources/pictures/italiana.png);
+    background-position: 50% 10%;
+    background-size: 80%;
+}
+
+.international_belgian{
+    background-image: url(../mainResources/pictures/belga.png);
+    background-position: 50% 10%;
+}
+
+.international_german{
+    background-image: url(../mainResources/pictures/alemana.png);
+    background-position: 70% 10%;
+}
+.international_russian{
+    background-image: url(../mainResources/pictures/rusa.png);
+    background-position: 70% 50%;
+}
+
+.international_nordic{
+    background-image: url(../mainResources/pictures/nordicas.png);
+}
+
+.international_arab{
+    background-image: url(../mainResources/pictures/arabes.png);
+    background-position: 50% 50%;
 }

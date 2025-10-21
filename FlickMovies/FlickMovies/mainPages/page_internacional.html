@@ -12,18 +12,18 @@
 <body>
     <main>
         <h1>INTERNACIONAL</h1>
-        <h1>☁️</h1>
+        <h1 onclick="cloud()">☁️</h1>
 
         <section>
-            <card>Españolas</card>
-            <card>Francesas</card>
-            <card>Italianas</card>
-            <card onclick="navigate(262)">Belgas</card>
-            <card>Alemanas</card>
-            <card>Rusas</card>
-            <card style="background-color: rgba(178, 34, 34, 0.5);">Internacional</card>
-            <card>Nordicas</card>
-            <card>Arabes</card>
+            <card onclick="navigate(262)" class="international_spanish">Españolas</card>
+            <card onclick="navigate(262)" class="international_french">Francesas</card>
+            <card onclick="navigate(262)" class="international_italian">Italianas</card>
+            <card onclick="navigate(262)" class="international_belgian">Belgas</card>
+            <card onclick="navigate(262)" class="international_german">Alemanas</card>
+            <card onclick="navigate(262)" class="international_russian">Rusas</card>
+            <card style="background-color: rgba(178, 34, 34, 0.5);" onclick="navigatePage('main')">BACK</card>
+            <card onclick="navigate(262)" class="international_nordic">Nordicas</card>
+            <card onclick="navigate(262)" class="international_arab">Arabes</card>
         </section>
     </main>
 </body>
