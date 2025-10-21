@@ -110,24 +110,25 @@ const projects = {
     description: "Confirmar la seguridad de los bancos",
     decoration: "strike"
   },
+  ScrollingLayers: {
+    title: "Scrolling 3 column layers",
+    description: "Aplicacion movil para Coleccionar fotos",
+    decoration: "strike"
+  },
   DatabaseNew: {
     title: "Database new build",
     description: "Script para generar nuevas bases de datos en nuevo lenguaje"
-  },
-  ScrollingLayers: {
-    title: "Scrolling 3 column layers",
-    description: "Aplicacion movil para Coleccionar fotos"
   },
   FlickMovies: {
     title: "Deploy flick movies website",
     description: "Desplegar version 3.1 de FlickMovies"
   },
-  Puente: {
-    title: "Construccion de puente",
-    description: "Terminar la construccion del puente"
-  },
   SmartElectronics: {
     title: "Smart electronics",
     description: "Preparar el nuevo hobby de la electronica."
+  },
+  Puente: {
+    title: "Construccion de puente",
+    description: "Terminar la construccion del puente"
   }
 }
