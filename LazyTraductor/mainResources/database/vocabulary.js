@@ -47,6 +47,11 @@ const vocabulary = {
     traduction: "ofrecer",
     comment: "Dar algo voluntariamente o poner algo a disposición de alguien."
   },
+  Ansehen: {
+  word: "ansehen",
+  traduction: "Mirar / Examinar / Observar",
+  comment: "Verbo que se usa para describir la acción de mirar algo con atención o examinar visualmente."
+},
   Antwort: {
     word: "Antwort",
     traduction: "respuesta",
@@ -80,6 +85,11 @@ const vocabulary = {
       bold: true
     }
   },
+  Bekommen: {
+  word: "bekommen",
+  traduction: "Recibir / Obtener",
+  comment: "Se utiliza para indicar que alguien recibe algo o adquiere algo."
+},
   Bettrit: {
     word: "'betttir'",
     traduction: "entrar en un lugar.",
@@ -148,20 +158,30 @@ const vocabulary = {
       bold: true
     }
   },
+  Datenverarbeitung: {
+    word: "'Datenverarbeitung'",
+    traduction: "procesamiento de datos",
+    comment: "Tratamiento automático de datos."
+  },
+  Dauernd: {
+  word: "dauernd",
+  traduction: "Constante / Permanente / Continuo",
+  comment: "Se usa para describir algo que ocurre de manera repetida o sin interrupción."
+	},
   Dienst: {
     word: "'dienst'",
     traduction: "Palabra para 'servicio'",
     comment: "'Servicio' entendido como trabajo que es realizado para un usuario."
   },
+  Durcheinander: {
+  word: "durcheinander",
+  traduction: "Confundido / Desordenado / Caótico",
+  comment: "Se usa para describir algo o alguien en un estado de confusión o desorden."
+},
   Dunkel: {
     word: "'dunkel'",
     traduction: "Adjetivo para 'oscuro'",
     comment: "Lo contrario de 'helle'"
-  },
-  Datenverarbeitung: {
-    word: "'Datenverarbeitung'",
-    traduction: "procesamiento de datos",
-    comment: "Tratamiento automático de datos."
   },
   E: {
     word: "'E'",
@@ -227,6 +247,11 @@ const vocabulary = {
       bold: true
     }
   },
+  Gäste: {
+  word: "Gäste",
+  traduction: "Invitados / Huéspedes",
+  comment: "Se utiliza para referirse a personas que visitan un lugar o son recibidas en una casa, hotel, evento, etc."
+},
   Gehen: {
     word: "gehen",
     traduction: "ir a algun lugar",
@@ -300,6 +325,11 @@ const vocabulary = {
     traduction: "nota, consejo",
     comment: "También existe un verbo, Hinweisen, significa, 'hacer notar algo'."
   },
+  Hoffentlich: {
+  word: "hoffentlich",
+  traduction: "Con suerte / Ojalá",
+  comment: "Se usa para expresar esperanza de que algo ocurra o sea verdadero."
+},
   Höflich: {
     word: "höflich",
     traduction: "cortés / educado",
@@ -514,6 +544,11 @@ const vocabulary = {
     traduction: "pronto, enseguida",
     comment: "No existe tiempo de espera."
   },
+  Stadtrundfahrt: {
+  word: "Stadtrundfahrt",
+  traduction: "Recorrido turístico por la ciudad",
+  comment: "Se refiere a un viaje organizado para visitar los lugares más importantes o turísticos de una ciudad."
+},
   T: {
     word: "'T'",
     traduction: "Worten Mit 'T'",
@@ -651,6 +686,11 @@ const vocabulary = {
     traduction: "desarrollo adicional",
     comment: "Progreso o mejora continua."
   },
+  Weit: {
+  word: "weit",
+  traduction: "Lejano / Amplio / Extenso",
+  comment: "Se utiliza para describir distancia, amplitud o grado de algo."
+},
   Weiterentwicklung: {
     word: "Weiterentwicklung",
     traduction: "desarrollo adicional",
