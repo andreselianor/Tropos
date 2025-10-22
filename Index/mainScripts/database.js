@@ -115,10 +115,6 @@ const projects = {
     description: "Aplicacion movil para Coleccionar fotos",
     decoration: "strike"
   },
-  DatabaseNew: {
-    title: "Database new build",
-    description: "Script para generar nuevas bases de datos en nuevo lenguaje"
-  },
   FlickMovies: {
     title: "Deploy flick movies website",
     description: "Desplegar version 3.1 de FlickMovies"
@@ -126,6 +122,10 @@ const projects = {
   SmartElectronics: {
     title: "Smart electronics",
     description: "Preparar el nuevo hobby de la electronica."
+  },
+  DatabaseNew: {
+    title: "Database new build",
+    description: "Script para generar nuevas bases de datos en nuevo lenguaje"
   },
   Puente: {
     title: "Construccion de puente",
