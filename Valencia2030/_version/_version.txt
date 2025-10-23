@@ -1,8 +1,0 @@
-Comunidad Valenciana 2030
-2025-07-31
-Version 1.1
-
-Definicion:
-"Website con las directrices y estrategias de la Comunidad Valencia para su territorio administrativo".
-
-desarrollo:

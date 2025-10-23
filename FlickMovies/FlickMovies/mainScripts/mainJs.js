@@ -18,7 +18,7 @@ function navigate(number) {
 
 function navigatePage(page) {
     if (page == 'main')
-        window.open("../../FlickMovies.html");
+        window.open("../../FlickMovies.html", "_self");
     if (page == 'international')
-        window.open("FlickMovies/mainPages/page_internacional.html");
+        window.open("FlickMovies/mainPages/page_internacional.html", "_self");
 }

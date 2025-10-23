@@ -29,6 +29,7 @@ card {
     margin: 10px;
     background-color: lightblue;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 section {
