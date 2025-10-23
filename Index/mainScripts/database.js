@@ -115,13 +115,14 @@ const projects = {
     description: "Aplicacion movil para Coleccionar fotos",
     decoration: "strike"
   },
+  SmartElectronics: {
+    title: "Smart electronics",
+    description: "Preparar el nuevo hobby de la electronica.",
+    decoration: "strike"
+  },
   FlickMovies: {
     title: "Deploy flick movies website",
     description: "Desplegar version 3.1 de FlickMovies"
-  },
-  SmartElectronics: {
-    title: "Smart electronics",
-    description: "Preparar el nuevo hobby de la electronica."
   },
   DatabaseNew: {
     title: "Database new build",
