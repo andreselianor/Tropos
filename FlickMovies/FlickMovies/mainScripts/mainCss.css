@@ -40,11 +40,23 @@ section {
 }
 
 card:hover {
-    background-color: lightcoral;
+    background-color: rgb(229, 240, 128);
 }
 
 a {
     display: contents;
     text-decoration: none;
     color: black;
+}
+
+.terror {
+    background-image: url(../mainResources/pictures/terror.png);
+    background-size: 100%;
+}
+
+.international {
+    background-image: url(../mainResources/pictures/internacional.png);
+    background-position: 70% 10%;
+    background-size: 120%;
+    font-size: 11pt;
 }

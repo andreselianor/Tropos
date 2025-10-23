@@ -1,0 +1,38 @@
+.international_spanish {
+    background-image: url(../mainResources/pictures/internacional_española.png);
+}
+
+.international_french {
+    background-image: url(../mainResources/pictures/internacional_francesa.png);
+    background-position: 150px 150px;
+}
+
+.international_italian {
+    background-image: url(../mainResources/pictures/internacional_italiana.png);
+    background-position: 50% 10%;
+    background-size: 80%;
+}
+
+.international_belgian {
+    background-image: url(../mainResources/pictures/internacional_belga.png);
+    background-position: 50% 10%;
+}
+
+.international_german {
+    background-image: url(../mainResources/pictures/internacional_alemana.png);
+    background-position: 70% 10%;
+}
+
+.international_russian {
+    background-image: url(../mainResources/pictures/internacional_rusa.png);
+    background-position: 70% 50%;
+}
+
+.international_nordic {
+    background-image: url(../mainResources/pictures/internacional_nordicas.png);
+}
+
+.international_arab {
+    background-image: url(../mainResources/pictures/internacional_arabes.png);
+    background-position: 50% 50%;
+}

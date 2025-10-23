@@ -21,4 +21,6 @@ function navigatePage(page) {
         window.open("../../FlickMovies.html", "_self");
     if (page == 'international')
         window.open("FlickMovies/mainPages/page_internacional.html", "_self");
+    if (page == 'terror')
+        window.open("FlickMovies/mainPages/page_terror.html", "_self");
 }
