@@ -60,3 +60,8 @@ a {
     background-size: 120%;
     font-size: 11pt;
 }
+
+.accion {
+    background-image: url(../mainResources/pictures/accion.png);
+    background-size: 100%;
+}

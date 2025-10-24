@@ -1,0 +1,39 @@
+.accion_clasicas {
+    background-image: url(../mainResources/pictures/accion_clasicas.png);
+    background-size: 100%;
+}
+
+.accion_aventuras {
+    background-image: url(../mainResources/pictures/accion_aventuras.png);
+    background-size: 100%;
+}
+
+.accion_policias {
+    background-image: url(../mainResources/pictures/accion_policias.png);
+    background-size: 100%;
+}
+
+.accion_espias {
+    background-image: url(../mainResources/pictures/accion_espias.png);
+    background-size: 100%;
+}
+
+.accion_fantasticas {
+    background-image: url(../mainResources/pictures/accion_fantasticas.png);
+    background-size: 100%;
+}
+
+.accion_asiaticas {
+    background-image: url(../mainResources/pictures/accion_asiaticas.png);
+    background-size: 100%;
+}
+
+.accion_independientes {
+    background-image: url(../mainResources/pictures/accion_independientes.png);
+    background-size: 100%;
+}
+
+.accion_tv {
+    background-image: url(../mainResources/pictures/accion_tv.png);
+    background-size: 100%;
+}
