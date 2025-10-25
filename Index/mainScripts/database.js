@@ -109,6 +109,10 @@ const projects = {
     title: "AirBNB",
     description: "Creacion de usuario"
   },
+  Trabajo: {
+    title: "Trabajo",
+    description: "Cursos y perfiles"
+  },
   ScrollingLayers: {
     title: "Scrolling 3 column layers",
     description: "Aplicacion movil para Coleccionar fotos",
