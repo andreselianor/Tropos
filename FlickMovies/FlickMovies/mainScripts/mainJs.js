@@ -25,4 +25,6 @@ function navigatePage(page) {
         window.open("FlickMovies/mainPages/page_terror.html", "_self");
     if (page == 'accion')
         window.open("FlickMovies/mainPages/page_accion.html", "_self");
+    if (page == 'belica')
+        window.open("FlickMovies/mainPages/page_belica.html", "_self");
 }

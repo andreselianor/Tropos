@@ -1,0 +1,19 @@
+.belica_clasicas {
+    background-image: url(../mainResources/pictures/belica_clasica.png);
+    background-size: 100%;
+}
+
+.belica_documentales {
+    background-image: url(../mainResources/pictures/belica_documental.png);
+    background-size: 100%;
+}
+
+.belica_dramas {
+    background-image: url(../mainResources/pictures/belica_drama.png);
+    background-size: 100%;
+}
+
+.belica_tv {
+    background-image: url(../mainResources/pictures/belica_tv.png);
+    background-size: 100%;
+}
