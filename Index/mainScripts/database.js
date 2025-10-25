@@ -37,16 +37,12 @@ const agenda = {
     title: "Prismas",
     description: "Volumenes de prismas. papel, cartulina, acetato, madera."
   },
-  Bookmarks: {
-    title: "Bookmarks",
-    description: "Pagina web con marcadores."
-  },
   Webscan: {
     title: "Webscan",
     description: "Diseño de proyecto de webscan."
   },
   Diseño: {
-    title: "Diseño en parques",
+    title: "Cofre para parques",
     description: "Comprar armario para decorar destino parque."
   },
   Puente: {
@@ -56,10 +52,6 @@ const agenda = {
   Expositor: {
     title: "Expositor",
     description: "Decoración para exponer figurillas."
-  },
-  SmartElectronics: {
-    title: "SmartElectronics",
-    description: "Compra en Tienda online de productos electrónicos: Breadboard, leds, cables y pilas."
   },
   Ciudad: {
     title: "Ciudad",
@@ -100,36 +92,30 @@ const agenda = {
 }
 
 const projects = {
-  Cromo: {
-    title: "Cromos 3D",
-    description: "Creacion de cromos 3D",
-    decoration: "strike"
+  Marcapaginas: {
+    title: "Marcapaginas",
+    description: "Escritura de lapiz / tempera"    
+    //decoration: "strike"
   },
-  Seguridad: {
-    title: "Seguridad en bancos",
-    description: "Confirmar la seguridad de los bancos",
-    decoration: "strike"
+  Figma: {
+    title: "Figma",
+    description: "Diseño de juego web"
+  },
+  Bancos: {
+    title: "Bancos",
+    description: "Seguridad en bancos"
+  },
+  AirBNB: {
+    title: "AirBNB",
+    description: "Creacion de usuario"
   },
   ScrollingLayers: {
     title: "Scrolling 3 column layers",
     description: "Aplicacion movil para Coleccionar fotos",
     decoration: "strike"
   },
-  SmartElectronics: {
-    title: "Smart electronics",
-    description: "Preparar el nuevo hobby de la electronica.",
-    decoration: "strike"
-  },
-  FlickMovies: {
-    title: "Deploy flick movies website",
-    description: "Desplegar version 3.1 de FlickMovies"
-  },
-  DatabaseNew: {
-    title: "Database new build",
-    description: "Script para generar nuevas bases de datos en nuevo lenguaje"
-  },
-  Puente: {
-    title: "Construccion de puente",
-    description: "Terminar la construccion del puente"
+  Bookmarks: {
+    title: "Web Bookmarks",
+    description: "Aplicacion Web para guardar marcadores"
   }
 }
