@@ -29,4 +29,6 @@ function navigatePage(page) {
         window.open("FlickMovies/mainPages/page_belica.html", "_self");
     if (page == 'comedia')
         window.open("FlickMovies/mainPages/page_comedia.html", "_self");
+    if (page == 'drama')
+        window.open("FlickMovies/mainPages/page_drama.html", "_self");
 }

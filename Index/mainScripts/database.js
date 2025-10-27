@@ -121,5 +121,9 @@ const projects = {
   Fotoprix: {
     title: "Fotoprix",
     description: "Salir de las fotografias"
+  },
+  Alimentacion: {
+    title: "Fichas salud",
+    description: "Crear carpetas / empezar dieta"
   }
 }

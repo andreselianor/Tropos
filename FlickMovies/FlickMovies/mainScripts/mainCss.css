@@ -75,3 +75,8 @@ a {
     background-image: url(../mainResources/pictures/comedia.png);
     background-size: 100%;
 }
+
+.drama {
+    background-image: url(../mainResources/pictures/drama.png);
+    background-size: 100%;
+}

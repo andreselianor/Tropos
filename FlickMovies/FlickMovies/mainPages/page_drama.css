@@ -1,0 +1,39 @@
+.drama_clasicos {
+    background-image: url(../mainResources/pictures/drama_clasico.png);
+    background-size: 100%;
+}
+
+.drama_biograficos {
+    background-image: url(../mainResources/pictures/drama_autobiografico.png);
+    background-size: 100%;
+}
+
+.drama_libros {
+    background-image: url(../mainResources/pictures/drama_libro.png);
+    background-size: 100%;
+}
+
+.drama_policiacos {
+    background-image: url(../mainResources/pictures/drama_policia.png);
+    background-size: 100%;
+}
+
+.drama_independientes {
+    background-image: url(../mainResources/pictures/drama_independiente.png);
+    background-size: 100%;
+}
+
+.drama_romantico {
+    background-image: url(../mainResources/pictures/drama_romantico.png);
+    background-size: 100%;
+}
+
+.drama_cienciaficcion {
+    background-image: url(../mainResources/pictures/drama_cienciaficcion.png);
+    background-size: 100%;
+}
+
+.drama_tv {
+    background-image: url(../mainResources/pictures/drama_tv.png);
+    background-size: 100%;
+}
