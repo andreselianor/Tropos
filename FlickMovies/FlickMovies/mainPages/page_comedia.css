@@ -1,0 +1,39 @@
+.comedia_clasica {
+    background-image: url(../mainResources/pictures/comedia_clasica.png);
+    background-size: 100%;
+}
+
+.comedia_romantica {
+    background-image: url(../mainResources/pictures/comedia_romantica.png);
+    background-size: 100%;
+}
+
+.comedia_enredo {
+    background-image: url(../mainResources/pictures/comedia_enredo.png);
+    background-size: 100%;
+}
+
+.comedia_accion {
+    background-image: url(../mainResources/pictures/comedia_accion.png);
+    background-size: 100%;
+}
+
+.comedia_juvenil {
+    background-image: url(../mainResources/pictures/comedia_juvenil.png);
+    background-size: 100%;
+}
+
+.comedia_deculto {
+    background-image: url(../mainResources/pictures/comedia_deculto.png);
+    background-size: 100%;
+}
+
+.comedia_independiente {
+    background-image: url(../mainResources/pictures/comedia_independiente.png);
+    background-size: 100%;
+}
+
+.comedia_tv {
+    background-image: url(../mainResources/pictures/terror_adolescente.png);
+    background-size: 100%;
+}

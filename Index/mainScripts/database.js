@@ -92,18 +92,19 @@ const agenda = {
 }
 
 const projects = {
-  Marcapaginas: {
-    title: "Marcapaginas",
-    description: "Escritura de lapiz / tempera"    
-    //decoration: "strike"
-  },
   Figma: {
     title: "Figma",
-    description: "Diseño de juego web"
+    description: "Diseño de juego web",
+    decoration: "strike"
   },
   Bancos: {
     title: "Bancos",
-    description: "Seguridad en bancos"
+    description: "Seguridad en bancos",
+    decoration: "strike"
+  },
+  Marcapaginas: {
+    title: "Marcapaginas",
+    description: "Escritura de lapiz / tempera"
   },
   AirBNB: {
     title: "AirBNB",
@@ -113,13 +114,12 @@ const projects = {
     title: "Trabajo",
     description: "Cursos y perfiles"
   },
-  ScrollingLayers: {
-    title: "Scrolling 3 column layers",
-    description: "Aplicacion movil para Coleccionar fotos",
-    decoration: "strike"
-  },
   Bookmarks: {
     title: "Web Bookmarks",
     description: "Aplicacion Web para guardar marcadores"
+  },
+  Fotoprix: {
+    title: "Fotoprix",
+    description: "Salir de las fotografias"
   }
 }

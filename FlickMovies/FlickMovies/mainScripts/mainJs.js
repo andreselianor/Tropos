@@ -18,7 +18,7 @@ function navigate(number) {
 
 function navigatePage(page) {
     if (page == 'main')
-        window.open("../../FlickMovies.html", "_self");
+        window.open("./page_index.html", "_self");
     if (page == 'international')
         window.open("FlickMovies/mainPages/page_internacional.html", "_self");
     if (page == 'terror')
@@ -27,4 +27,6 @@ function navigatePage(page) {
         window.open("FlickMovies/mainPages/page_accion.html", "_self");
     if (page == 'belica')
         window.open("FlickMovies/mainPages/page_belica.html", "_self");
+    if (page == 'comedia')
+        window.open("FlickMovies/mainPages/page_comedia.html", "_self");
 }
