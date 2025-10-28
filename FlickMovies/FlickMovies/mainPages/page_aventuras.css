@@ -1,0 +1,39 @@
+.aventuras_clasicas {
+    background-image: url(../mainResources/pictures/aventuras_clasico.png);
+    background-size: 100%;
+}
+
+.aventuras_western {
+    background-image: url(../mainResources/pictures/aventuras_western.png);
+    background-size: 100%;
+}
+
+.aventuras_epopeyas {
+    background-image: url(../mainResources/pictures/aventuras_epopeya.png);
+    background-size: 100%;
+}
+
+.aventuras_viajes {
+    background-image: url(../mainResources/pictures/aventuras_viajes.png);
+    background-size: 100%;
+}
+
+.aventuras_accion {
+    background-image: url(../mainResources/pictures/aventuras_accion.png);
+    background-size: 100%;
+}
+
+.aventuras_independientes {
+    background-image: url();
+    background-size: 100%;
+}
+
+.aventuras_scifi {
+    background-image: url(../mainResources/pictures/aventuras_scifi.png);
+    background-size: 100%;
+}
+
+.aventuras_tv {
+    background-image: url(../mainResources/pictures/aventuras_tv.png);
+    background-size: 100%;
+}

@@ -1,0 +1,38 @@
+.anime_clasico {
+    background-image: url(../mainResources/pictures/anime_clasico.png);
+}
+
+.anime_accion {
+    background-image: url(../mainResources/pictures/anime_accion.png);
+    background-size: 100%;
+}
+
+.anime_drama {
+    background-image: url(../mainResources/pictures/anime_drama.png);
+    background-size: 100%;
+}
+
+.anime_largometrajes {
+    background-image: url(../mainResources/pictures/anime_largometraje.png);
+    background-size: 100%;
+}
+
+.anime_cienciaficcion {
+    background-image: url(../mainResources/pictures/anime_scifi.png);
+    background-size: 100%;
+}
+
+.anime_fantastico {
+    background-image: url(../mainResources/pictures/anime_fantastico.png);
+    background-size: 100%;
+}
+
+.anime_comedia {
+    background-image: url(../mainResources/pictures/anime_comedia.png);
+    background-size: 100%;
+}
+
+.anime_tv {
+    background-image: url(../mainResources/pictures/anime_tv.png);
+    background-size: 100%;
+}

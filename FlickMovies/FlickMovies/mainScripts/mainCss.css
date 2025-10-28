@@ -80,3 +80,18 @@ a {
     background-image: url(../mainResources/pictures/drama.png);
     background-size: 100%;
 }
+
+.aventuras {
+    background-image: url(../mainResources/pictures/aventuras.png);
+    background-size: 100%;
+}
+
+.scifi {
+    background-image: url(../mainResources/pictures/scifi.png);
+    background-size: 100%;
+}
+
+.anime {
+    background-image: url(../mainResources/pictures/anime.png);
+    background-size: 100%;
+}
