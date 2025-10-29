@@ -104,7 +104,8 @@ const projects = {
   },
   Marcapaginas: {
     title: "Marcapaginas",
-    description: "Escritura de lapiz / tempera"
+    description: "Escritura de lapiz / tempera",
+    decoration: "strike"
   },
   AirBNB: {
     title: "AirBNB",

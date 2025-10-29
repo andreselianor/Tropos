@@ -1,8 +1,0 @@
-Learning SQL
-2025-07-31
-Version 1.1
-
-Definicion:
-"Apuntes para realizar búsquedas en bases de datos .sql".
-
-desarrollo:
