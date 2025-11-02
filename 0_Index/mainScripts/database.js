@@ -48,32 +48,21 @@ const agenda = {
 }
 
 const projects = {
-  Figma: {
-    title: "Figma",
-    description: "Diseño de juego web",
-    decoration: "strike"
-  },
-  Bancos: {
-    title: "Bancos",
-    description: "Seguridad en bancos",
-    decoration: "strike"
-  },
-  Marcapaginas: {
-    title: "Marcapaginas",
-    description: "Escritura de lapiz / tempera",
-    decoration: "strike"
-  },
   AirBNB: {
     title: "AirBNB",
-    description: "Creacion de usuario"
+    description: "Actualizacion de perfil"
+  },
+  Google: {
+    title: "Google",
+    description: "Servicios en la nube"
+  },
+  Seguridad: {
+    title: "Seguridad",
+    description: "Actualizacion de seguridad"
   },
   Trabajo: {
     title: "Trabajo",
     description: "Cursos y perfiles"
-  },
-  Bookmarks: {
-    title: "Web Bookmarks",
-    description: "Aplicacion Web para guardar marcadores"
   },
   Fotoprix: {
     title: "Fotoprix",
@@ -82,5 +71,9 @@ const projects = {
   Alimentacion: {
     title: "Fichas salud",
     description: "Crear carpetas / empezar dieta"
+  },
+  Medicinas: {
+    title: "Guia de medicinas",
+    description: "Comprobar medicinas"
   }
 }
