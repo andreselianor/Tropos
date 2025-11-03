@@ -50,7 +50,13 @@ const agenda = {
 const projects = {
   AirBNB: {
     title: "AirBNB",
-    description: "Actualizacion de perfil"
+    description: "Actualizacion de perfil",
+    decoration : "strike"
+  },
+  Medicinas: {
+    title: "Guia de medicinas",
+    description: "Comprobar medicinas",
+    decoration: "strike"
   },
   Google: {
     title: "Google",
@@ -71,9 +77,5 @@ const projects = {
   Alimentacion: {
     title: "Fichas salud",
     description: "Crear carpetas / empezar dieta"
-  },
-  Medicinas: {
-    title: "Guia de medicinas",
-    description: "Comprobar medicinas"
   }
 }
