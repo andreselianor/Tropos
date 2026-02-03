@@ -20,11 +20,32 @@ h1 {
     text-align: center;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 #orihuela,
 #orihuela_ida,
 #orihuela_vuelta,
 #button_orihuela_ida,
 #button_orihuela_vuelta {
+    display: none;
+}
+
+#santapola,
+#santapola_ida,
+#santapola_vuelta,
+#button_santapola_ida,
+#button_santapola_vuelta {
+    display: none;
+}
+
+#torrevieja,
+#torrevieja_ida,
+#torrevieja_vuelta,
+#button_torrevieja_ida,
+#button_torrevieja_vuelta {
     display: none;
 }
 
