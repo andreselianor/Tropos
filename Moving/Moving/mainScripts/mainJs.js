@@ -10,6 +10,10 @@ var torrevieja_switch = true;
 var torrevieja_ida_switch = true;
 var torrevieja_vuelta_switch = true;
 
+var murcia_switch = true;
+var murcia_ida_switch = true;
+var murcia_vuelta_switch = true;
+
 function displayButtons(city) {
     let city_display_ida = document.getElementById(`button_${city}_ida`);
     let city_display_vuelta = document.getElementById(`button_${city}_vuelta`);
@@ -55,6 +59,19 @@ function displayButtons(city) {
         }
         torrevieja_switch = !torrevieja_switch;
     }
+    if (city == 'murcia') {
+        if (murcia_switch) {
+            city_display_ida.style.display = "flex";
+            city_display_vuelta.style.display = "flex";
+        }
+        else {
+            city_display_ida.style.display = "none";
+            city_display_vuelta.style.display = "none";
+            city_ida.style.display = "none";
+            city_vuelta.style.display = "none";
+        }
+        murcia_switch = !murcia_switch;
+    }
 }
 
 function displayIda(city) {
@@ -86,6 +103,15 @@ function displayIda(city) {
         }
         torrevieja_ida_switch = !torrevieja_ida_switch;
     }
+    if (city == 'murcia') {
+        if (murcia_ida_switch) {
+            city_display_ida.style.display = "flex";
+        }
+        else {
+            city_display_ida.style.display = "none";
+        }
+        murcia_ida_switch = !murcia_ida_switch;
+    }
 }
 
 function displayVuelta(city) {
@@ -115,6 +141,15 @@ function displayVuelta(city) {
         else {
             city_display_vuelta.style.display = "none";
         }
-        torrevieja_vuelta_switch = !torreviejaa_vuelta_switch;
+        torrevieja_vuelta_switch = !torrevieja_vuelta_switch;
+    }
+    if (city == 'murcia') {
+        if (murcia_vuelta_switch) {
+            city_display_vuelta.style.display = "flex";
+        }
+        else {
+            city_display_vuelta.style.display = "none";
+        }
+        murcia_vuelta_switch = !murcia_vuelta_switch;
     }
 }
