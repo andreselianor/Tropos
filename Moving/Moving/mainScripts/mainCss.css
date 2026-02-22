@@ -57,6 +57,14 @@ main {
     display: none;
 }
 
+#torrellano,
+#torrellano_ida,
+#torrellano_vuelta,
+#button_torrellano_ida,
+#button_torrellano_vuelta {
+    display: none;
+}
+
 table {
     width: 380px;
     display: flex;
